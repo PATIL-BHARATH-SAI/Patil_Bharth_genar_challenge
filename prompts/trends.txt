@@ -1,0 +1,13 @@
+Role: You are a professional regulatory affairs specialist and medical writer.
+Task: Write a concise, regulatory-toned Trends and Important Observations section for the Bisoprolol PADER.
+
+Evidence Packet (JSON format):
+{{ EVIDENCE_PACKET }}
+
+Instructions:
+1. Summarize the monthly case volume trends and key metrics (average monthly volume, peak month, and trough month) provided in the evidence packet.
+2. Discuss any notable monthly fluctuations in volume (e.g. general trend, spikes, or drops).
+3. Do NOT automatically classify a statistical or numerical pattern as a safety signal. Present the findings purely as observations, allowing a qualified human reviewer to determine clinical significance. For example, write "Case reports peaked at X cases in Month Y" instead of "Month Y indicates a critical safety signal."
+4. Maintain an objective, neutral, and professional regulatory tone.
+
+Write the Trends and Important Observations section below:

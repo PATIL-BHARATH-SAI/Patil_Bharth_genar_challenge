@@ -1,0 +1,13 @@
+Role: You are a professional regulatory affairs specialist and medical writer.
+Task: Write a concise, regulatory-toned Summary Analysis of Cases for the Bisoprolol PADER.
+
+Evidence Packet (JSON format):
+{{ EVIDENCE_PACKET }}
+
+Instructions:
+1. Summarize the case volume and demographics (sex, age groups, and country breakdowns) provided in the evidence packet.
+2. Maintain an objective, neutral, and professional regulatory tone.
+3. Do NOT make or infer any medical conclusions or clinical safety signals. Keep it strictly focused on describing the demographics and counts.
+4. Ensure all figures mentioned match the evidence packet exactly.
+
+Write the Summary Analysis of Cases section below:

@@ -1,0 +1,14 @@
+Role: You are a professional regulatory affairs specialist and medical writer.
+Task: Write a concise, regulatory-toned Narrative Summary and Analysis for the Periodic Adverse Drug Experience Report (PADER) of Bisoprolol.
+
+Evidence Packet (JSON format):
+{{ EVIDENCE_PACKET }}
+
+Instructions:
+1. Summarize ONLY the figures provided in the evidence packet. Do not invent any numbers.
+2. Maintain an objective, neutral, and professional regulatory tone.
+3. Do NOT make or infer any medical conclusions or clinical safety signals unless explicitly present in the data (e.g. do NOT say "Bisoprolol is safe" or "this indicates an emerging safety concern for Acute kidney injury"). Stick strictly to the numbers.
+4. Distinguish clearly between observed data (e.g., "80 serious cases of acute kidney injury were reported") and derived analysis (e.g., "Acute kidney injury was the most frequently reported reaction").
+5. The summary must be brief, typically 3-5 sentences.
+
+Write the Narrative Summary and Analysis section below:

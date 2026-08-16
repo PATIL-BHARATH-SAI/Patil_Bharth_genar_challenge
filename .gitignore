@@ -1,0 +1,17 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Local build/package artifacts
+submission_pkg/
+*.zip
+
+# Assessment inputs/reference material not meant for submission repo
+Bisoprolol_icsr_sample_1068rows.xlsx
+DATA_USAGE_NOTICE.pdf
+GenAR - AI Engineering Challenge.pdf
+PADER_Starter_Guide.pdf
+PADER-FDA-Y0AHP_PADER_Full_sample_data_B-1_CLIENT_DEV_01_FDA_v1_20260810.pdf
+Submission_Guide.pdf
+

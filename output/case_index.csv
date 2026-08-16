@@ -1,0 +1,1025 @@
+case_id,date_received,country,seriousness,reactions,outcome
+24780403,2024-12-27,ITALY,SERIOUS,Deficiency anaemia; Rectal haemorrhage,Unknown
+24780599,2024-12-27,FRANCE,SERIOUS,Coma,Recovered / resolved
+24780680,2024-12-27,FRANCE,SERIOUS,Acute kidney injury,Recovered / resolved
+24784771,2024-12-28,UNITED KINGDOM,SERIOUS,Muscle spasms,Recovered / resolved
+24784845,2024-12-28,UNITED KINGDOM,SERIOUS,Anxiety; Chest pain; Panic attack,Not recovered / ongoing
+24784920,2024-12-28,UNITED KINGDOM,SERIOUS,Genital burning sensation,Not recovered / ongoing
+24784985,2024-12-28,UNITED KINGDOM,SERIOUS,Pemphigoid,Unknown
+24784989,2024-12-28,UNITED KINGDOM,SERIOUS,Drug interaction; Hypersensitivity,Unknown
+24787006,2024-12-30,UNITED KINGDOM,SERIOUS,Bradycardia; Medication error,Not recovered / ongoing
+24787240,2024-12-30,UNITED KINGDOM,SERIOUS,Muscle spasms; Muscle twitching,Not recovered / ongoing
+24787307,2024-12-30,UNITED KINGDOM,SERIOUS,Cardiac arrest,Recovering / resolving
+24787627,2024-12-30,ITALY,SERIOUS,Acidosis; Hypoglycaemia,Recovering / resolving
+24788122,2024-12-30,ITALY,SERIOUS,Condition aggravated; Drug ineffective; Erectile dysfunction,Recovering / resolving
+24791327,2024-12-31,FRANCE,SERIOUS,Cardiac failure,Not recovered / ongoing
+24791598,2024-12-31,FRANCE,SERIOUS,Hepatic cytolysis,Recovering / resolving
+24791831,2024-12-31,UNITED KINGDOM,SERIOUS,Cardiogenic shock,Unknown
+24792345,2024-12-31,UNITED KINGDOM,SERIOUS,Atrioventricular block,Unknown
+24792691,2024-12-31,FRANCE,SERIOUS,Pseudoporphyria,Recovering / resolving
+24792889,2024-12-31,SPAIN,SERIOUS,Cardiac failure; Hypervolaemia; Hyponatraemia,Recovered / resolved
+24793431,2024-12-31,FRANCE,SERIOUS,Dyskinesia,Not recovered / ongoing
+24795574,2024-12-31,UNITED KINGDOM,SERIOUS,Cardiac failure congestive; Dyspnoea; Oxygen saturation decreased,Recovered with sequelae
+24795755,2025-01-01,UNITED KINGDOM,SERIOUS,Acute kidney injury,Recovered / resolved
+24796067,2025-01-01,UNITED KINGDOM,SERIOUS,Leg amputation,Recovered / resolved
+24796224,2025-01-01,FRANCE,SERIOUS,Dyskinesia,Not recovered / ongoing
+24798336,2025-01-02,SPAIN,SERIOUS,Craniocerebral injury; Haemorrhage intracranial; Hyponatraemia; Inappropriate antidiuretic hormone secretion,Recovered / resolved
+24802877,2025-01-03,FRANCE,SERIOUS,Acute kidney injury,Recovered / resolved
+24803041,2025-01-03,SPAIN,SERIOUS,Hyponatraemia,Recovered / resolved
+24803117,2025-01-03,UNITED KINGDOM,SERIOUS,Hepatic enzyme increased,Unknown
+24803128,2025-01-03,SPAIN,SERIOUS,Haematemesis,Recovered / resolved
+24803463,2025-01-03,FRANCE,SERIOUS,Hepatic cytolysis,Recovered with sequelae
+24806665,2025-01-04,FRANCE,SERIOUS,Foetal growth restriction; Maternal exposure during pregnancy; Medically induced preterm birth,Not recovered / ongoing
+24806776,2025-01-04,POLAND,SERIOUS,Drug ineffective; Sinus bradycardia,Unknown
+24806812,2025-01-04,GERMANY,SERIOUS,Disturbance in attention; Gamma-glutamyltransferase increased; General physical health deterioration; Sleep disorder; Somnolence; Sudden onset of sleep,Unknown
+24806832,2025-01-04,PORTUGAL,SERIOUS,Cardio-respiratory arrest,Recovered / resolved
+24807274,2025-01-05,PORTUGAL,SERIOUS,BRASH syndrome,Recovered / resolved
+24809124,2025-01-06,ITALY,SERIOUS,Chest discomfort; Cough; Dyspnoea,Recovered / resolved
+24812900,2025-01-07,FRANCE,SERIOUS,Dilated cardiomyopathy,Not recovered / ongoing
+24812977,2025-01-07,GERMANY,SERIOUS,Intentional overdose; Suicide attempt,Unknown
+24813208,2025-01-07,GERMANY,SERIOUS,Urostomy complication,Recovered / resolved
+24813219,2025-01-07,FRANCE,SERIOUS,Pancytopenia,Fatal
+24813415,2025-01-07,FRANCE,SERIOUS,Cutaneous vasculitis; Vascular purpura,Recovering / resolving
+24815412,2025-01-07,FRANCE,SERIOUS,Bradycardia foetal; Foetal growth restriction; Maternal exposure during pregnancy; Microencephaly; Neonatal behavioural syndrome; Neonatal respiratory distress,Not recovered / ongoing
+24816890,2025-01-07,FRANCE,SERIOUS,Hepatic cytolysis,Recovering / resolving
+24822547,2025-01-09,UNITED KINGDOM,SERIOUS,Symptom masked,Unknown
+24823024,2025-01-09,GERMANY,SERIOUS,Gastric ulcer,Recovered / resolved
+24828530,2025-01-10,FRANCE,SERIOUS,Altered state of consciousness; Asthenia; Cognitive disorder; Overdose; Salivary hypersecretion,Recovered / resolved
+24828871,2025-01-10,SPAIN,SERIOUS,Asthenia; Dizziness; Fall; Hyponatraemia; Syncope,Unknown
+24833163,2025-01-11,FRANCE,SERIOUS,Hypoglycaemia,Recovered / resolved
+24833191,2025-01-11,UNITED KINGDOM,SERIOUS,Cognitive disorder; Fall; Hyperreflexia; Hypertonia; Mobility decreased; Parkinsonism; Reduced facial expression; Reflexes abnormal; Tardive dyskinesia; Tremor,Recovering / resolving
+24833204,2025-01-11,GERMANY,SERIOUS,Arthralgia; Blood pressure systolic decreased; Cardiorenal syndrome; Chest pain; Cystitis escherichia; Dizziness; Lymphadenopathy mediastinal; Pain; Pericardial effusion; Pleural effusion; Pneumonia; Pulmonary congestion; Renal injury; Right ventricular failure,Recovered / resolved
+24833425,2025-01-12,ITALY,SERIOUS,Diarrhoea; Pseudomonas infection; Pyrexia; Respiratory failure; Septic shock,Fatal
+24834918,2025-01-13,GERMANY,SERIOUS,Cerebral haemorrhage,Unknown
+24835358,2025-01-13,GERMANY,SERIOUS,Cerebral haemorrhage,Unknown
+24843792,2025-01-15,ITALY,SERIOUS,Cerebral haemorrhage,Fatal
+24847678,2025-01-16,UNITED KINGDOM,SERIOUS,Confusional state; Fatigue,Unknown
+24847955,2025-01-16,FRANCE,SERIOUS,Coma; Confusional state,Recovered / resolved
+24853075,2025-01-16,UNITED KINGDOM,SERIOUS,Muscle spasms; Muscle twitching; Muscular weakness; Paraesthesia; Restless legs syndrome,Not recovered / ongoing
+24853349,2025-01-17,FRANCE,SERIOUS,Acute kidney injury; Atrioventricular block complete; Drug interaction; Lactic acidosis; Overdose; Respiratory distress,Recovered / resolved
+24855113,2025-01-17,FRANCE,SERIOUS,Acute kidney injury; Hyperkalaemia,Recovering / resolving
+24858691,2025-01-18,UNITED KINGDOM,SERIOUS,Dizziness; Joint swelling; Oedema peripheral,Recovered / resolved
+24858708,2025-01-18,UNITED KINGDOM,SERIOUS,Intermenstrual bleeding; Menstruation delayed; Menstruation irregular,Not recovered / ongoing
+24858723,2025-01-18,FRANCE,SERIOUS,Ischaemic stroke,Recovered / resolved
+24858756,2025-01-18,RO,SERIOUS,Acute kidney injury; Agitation; Altered state of consciousness; Bradycardia; Campylobacter gastroenteritis; Cardiac arrest; Dyskinesia; Hyperkalaemia; Hypotension; Hypoxia; Lactic acidosis; Muscular weakness; Pallor; Peripheral coldness; Renal impairment; Respiratory disorder,Recovered / resolved
+24860343,2025-01-20,FRANCE,SERIOUS,Neuropathy peripheral,Not recovered / ongoing
+24860802,2025-01-20,ITALY,SERIOUS,Dermatitis exfoliative generalised; Face oedema; Purpura,Recovered / resolved
+24860813,2025-01-20,CANADA,SERIOUS,Drug ineffective,Unknown
+24861349,2025-01-20,FRANCE,SERIOUS,Cholestasis,Not recovered / ongoing
+24864994,2025-01-21,UNITED KINGDOM,SERIOUS,Orthostatic hypotension,Recovered / resolved
+24865163,2025-01-21,UNITED KINGDOM,SERIOUS,Atrioventricular block complete,Unknown
+24865641,2025-01-21,FRANCE,SERIOUS,Fall; Hypotension; Malaise,Recovering / resolving
+24865801,2025-01-21,UNITED KINGDOM,SERIOUS,Chronic obstructive pulmonary disease; Dyspnoea,Recovered / resolved
+24866816,2025-01-21,UNITED KINGDOM,SERIOUS,Pulmonary embolism,Not recovered / ongoing
+24871166,2025-01-22,UNITED KINGDOM,SERIOUS,Hypocalcaemia,Recovered / resolved
+24871216,2025-01-22,FRANCE,SERIOUS,Atrial fibrillation; Hypokalaemia,Recovered / resolved
+24872990,2025-01-22,BELGIUM,SERIOUS,Anaemia; Enterococcal infection; Escherichia infection; Leukopenia; Neutropenia; Normochromic normocytic anaemia; Pancytopenia; Pyrexia; Thrombocytopenia,Recovered / resolved
+24876245,2025-01-23,UNITED KINGDOM,SERIOUS,Alopecia; Fatigue; Nightmare; Skin irritation; Sleep paralysis,Recovering / resolving
+24887289,2025-01-27,UNITED KINGDOM,SERIOUS,Hyperkalaemia,Recovering / resolving
+24887406,2025-01-27,FRANCE,SERIOUS,Bronchopulmonary aspergillosis; Lung disorder; Pneumonitis; Thrombocytopenia,Fatal
+24887784,2025-01-27,FRANCE,SERIOUS,Altered state of consciousness; Bradycardia; Hypothermia; Hypoxia; Poisoning deliberate,Recovered / resolved
+24888230,2025-01-27,FRANCE,SERIOUS,Hypotension,Recovering / resolving
+24888268,2025-01-27,FRANCE,SERIOUS,Clostridium difficile colitis,Recovered / resolved
+24888443,2025-01-27,UNITED KINGDOM,SERIOUS,Hypoacusis; Ototoxicity,Unknown
+24892198,2025-01-28,FRANCE,SERIOUS,Gastric ischaemia; Haematemesis; Intestinal ischaemia; Oesophageal stenosis,Fatal
+24893439,2025-01-28,UNITED KINGDOM,SERIOUS,Acute kidney injury,Unknown
+24898140,2025-01-29,UNITED KINGDOM,SERIOUS,Confusional state,Not recovered / ongoing
+24898322,2025-01-29,UNITED KINGDOM,SERIOUS,Gouty arthritis; Medication error,Not recovered / ongoing
+24902753,2025-01-30,GERMANY,SERIOUS,Foetal exposure during pregnancy; Small for dates baby,Recovering / resolving
+24902758,2025-01-30,UNITED KINGDOM,SERIOUS,Anaphylactic reaction; Pharyngeal swelling,Fatal
+24907505,2025-01-31,FRANCE,SERIOUS,Acute kidney injury; Lactic acidosis,Fatal
+24907834,2025-01-31,UNITED KINGDOM,SERIOUS,Urinary incontinence,Recovered / resolved
+24908264,2025-01-31,FRANCE,SERIOUS,Acute kidney injury; Atrioventricular block; Drug interaction; Hyponatraemia,Recovering / resolving
+24908454,2025-01-31,FRANCE,SERIOUS,Congenital aplasia; Gastrointestinal ulcer haemorrhage; Hepatitis cholestatic; Pancreatitis acute,Recovering / resolving
+24908666,2025-01-31,ITALY,SERIOUS,Melaena,Recovered / resolved
+24908919,2025-01-31,ITALY,SERIOUS,Anaemia; Melaena; Rectal haemorrhage,Recovering / resolving
+24909030,2025-01-31,ITALY,SERIOUS,Atrial fibrillation; Drug ineffective; Palpitations,Recovered / resolved
+24909055,2025-01-31,FRANCE,SERIOUS,Acute kidney injury,Recovering / resolving
+24913162,2025-02-01,FRANCE,SERIOUS,Subarachnoid haemorrhage,Recovered / resolved
+24913316,2025-02-01,FRANCE,SERIOUS,Acute kidney injury; Cardiac failure; Drug interaction,Recovered / resolved
+24913394,2025-02-01,SPAIN,SERIOUS,Drug ineffective; Erythema; Swelling,Recovered / resolved
+24915088,2025-02-03,SPAIN,SERIOUS,Acute myocardial infarction; Atrial fibrillation; COVID-19; Cellulitis; Neutropenia; Urinary tract infection,Recovered / resolved
+24915494,2025-02-03,UNITED KINGDOM,SERIOUS,Sinus arrest,Unknown
+24919026,2025-02-04,SPAIN,SERIOUS,Cognitive disorder; Disorientation; Disturbance in attention; Dysarthria; Emotional disorder; Hallucination; Somnolence; Swollen tongue; Tongue erythema; Urinary tract infection,Recovered / resolved
+24919227,2025-02-04,FRANCE,SERIOUS,Asthenia; Decreased appetite; Somnolence; Stevens-Johnson syndrome,Recovered / resolved
+24920583,2025-02-04,FRANCE,SERIOUS,Electrocardiogram QT prolonged,Recovered / resolved
+24921420,2025-02-04,FRANCE,SERIOUS,Febrile bone marrow aplasia; Stevens-Johnson syndrome,Fatal
+24921475,2025-02-04,FRANCE,SERIOUS,Autoimmune myositis,Recovering / resolving
+24925730,2025-02-04,FRANCE,SERIOUS,Orthostatic hypotension,Recovering / resolving
+24927026,2025-02-05,SPAIN,SERIOUS,Drug ineffective; Erythema; Swelling,Recovered / resolved
+24928144,2025-02-05,UNITED KINGDOM,SERIOUS,Ankle fracture,Recovering / resolving
+24935168,2025-02-06,FRANCE,SERIOUS,Acute kidney injury; Anaemia; Lactic acidosis,Recovered with sequelae
+24935540,2025-02-06,UNITED KINGDOM,SERIOUS,Arthralgia; Blood glucose abnormal; Hyperglycaemia; Joint noise,Not recovered / ongoing
+24939529,2025-02-06,UNITED KINGDOM,SERIOUS,Blood glucose decreased,Recovered / resolved
+24939539,2025-02-06,FRANCE,SERIOUS,Acute kidney injury,Recovered / resolved
+24940500,2025-02-07,UNITED KINGDOM,SERIOUS,Femur fracture,Recovering / resolving
+24940531,2025-02-07,CANADA,SERIOUS,Delirium,Recovered / resolved
+24940601,2025-02-07,CANADA,SERIOUS,Gastrointestinal injury; Upper gastrointestinal haemorrhage,Fatal
+24940932,2025-02-07,CANADA,SERIOUS,Back pain; Cardiac disorder; Carditis; Dental restoration failure; Gastrooesophageal reflux disease,Not recovered / ongoing
+24940938,2025-02-07,UNITED KINGDOM,SERIOUS,Dizziness; Nausea; Swelling face,Recovered / resolved
+24944728,2025-02-08,CANADA,SERIOUS,Blindness transient; Drug effective for unapproved indication; Epistaxis; Off label use,Recovered / resolved
+24946649,2025-02-10,ITALY,SERIOUS,Drug ineffective; Kounis syndrome; Stress cardiomyopathy,Recovered / resolved
+24947625,2025-02-10,SPAIN,SERIOUS,Decreased appetite; Gait disturbance; Musculoskeletal stiffness,Recovered / resolved
+24952766,2025-02-11,CANADA,SERIOUS,Alanine aminotransferase increased; Allergic sinusitis; Antinuclear antibody positive; Arthralgia; Arthritis; Arthropathy; Blood iron decreased; Blood uric acid increased; C-reactive protein increased; Condition aggravated; Cyst; Device issue; Drug ineffective; Hepatic enzyme increased; Incorrect dose administered; Injection site pain; Injection site warmth; Joint effusion; Joint swelling; Nephrolithiasis; Oedema; Osteoarthritis; Pain; Pain in extremity; Psoriasis; Pyrexia; Rash; Renal disorder; Sepsis; Synovial disorder; Synovitis; Tendonitis; Urinary tract infection; Vitamin B12 decreased; Wrong technique in device usage process,Unknown
+24952834,2025-02-11,FRANCE,SERIOUS,Foetal growth restriction; Maternal exposure during pregnancy; Normal newborn; Term birth,Recovered / resolved
+24953039,2025-02-11,UNITED KINGDOM,SERIOUS,Wheezing,Recovered / resolved
+24959215,2025-02-12,CANADA,SERIOUS,Alanine aminotransferase increased; Allergic sinusitis; Antinuclear antibody positive; Arthralgia; Arthritis; Arthropathy; Blood iron decreased; Blood uric acid increased; C-reactive protein increased; Condition aggravated; Cyst; Drug ineffective; Hepatic enzyme increased; Incorrect dose administered; Injection site pain; Injection site warmth; Joint effusion; Joint swelling; Nephrolithiasis; Oedema; Osteoarthritis; Pain; Pain in extremity; Psoriasis; Pyrexia; Rash; Renal disorder; Sepsis; Synovial disorder; Synovitis; Tendonitis; Urinary tract infection; Vitamin B12 decreased,Unknown
+24963584,2025-02-13,FRANCE,SERIOUS,Subdural haematoma,Recovered / resolved
+24963620,2025-02-13,UNITED KINGDOM,SERIOUS,Bradycardia; Depression; Hallucination; Hypotension; Insomnia; Nocturia; Suicidal ideation,Not recovered / ongoing
+24963798,2025-02-13,POLAND,SERIOUS,Condition aggravated; Drug intolerance,Unknown
+24964204,2025-02-13,FRANCE,SERIOUS,Hypocalcaemia; Hypokalaemia; Hypomagnesaemia; Hypophosphataemia; Tonic clonic movements,Recovering / resolving
+24964501,2025-02-13,FRANCE,SERIOUS,Bicytopenia,Recovered / resolved
+24964514,2025-02-13,FRANCE,SERIOUS,Angioedema; Drug interaction,Recovered / resolved
+24964515,2025-02-13,FRANCE,SERIOUS,Acute kidney injury; Cholestasis,Recovering / resolving
+24964530,2025-02-13,UNITED KINGDOM,SERIOUS,Femoral neck fracture,Recovering / resolving
+24964537,2025-02-13,UNITED KINGDOM,SERIOUS,Abnormal dreams; Dizziness; Palpitations,Not recovered / ongoing
+24964648,2025-02-13,UNITED KINGDOM,SERIOUS,Cough; Epistaxis; Face oedema; Skin oedema,Not recovered / ongoing
+24965125,2025-02-13,FRANCE,SERIOUS,Fall; Hypotension,Recovered / resolved
+24965157,2025-02-13,FRANCE,SERIOUS,Acute kidney injury; Off label use,Recovering / resolving
+24968368,2025-02-14,FRANCE,SERIOUS,Myalgia,Recovered / resolved
+24968502,2025-02-14,FRANCE,SERIOUS,Eosinophilia,Recovering / resolving
+24969537,2025-02-14,POLAND,SERIOUS,Asthenia; Atrioventricular block; Atrioventricular block complete; Atrioventricular block second degree; Bradyarrhythmia; Bradycardia; Diastolic dysfunction; Dizziness; Left ventricular end-diastolic pressure increased; Oedema peripheral; Supraventricular extrasystoles,Recovered / resolved
+24969561,2025-02-14,UNITED KINGDOM,SERIOUS,Bradycardia; Chest discomfort; Chest pain; Diarrhoea; Heart rate abnormal; Myalgia,Not recovered / ongoing
+24969964,2025-02-14,POLAND,SERIOUS,Febrile neutropenia; Thrombocytopenia,Recovered / resolved
+24973030,2025-02-16,FRANCE,SERIOUS,Fall,Recovering / resolving
+24973067,2025-02-16,FRANCE,SERIOUS,Hypotension,Recovered / resolved
+24974307,2025-02-17,UNITED KINGDOM,SERIOUS,Cardiac arrest; Medication error,Recovered / resolved
+24979403,2025-02-18,GERMANY,SERIOUS,C-reactive protein increased; Cancer pain; Immune-mediated hepatitis; Infection,Not recovered / ongoing
+24983830,2025-02-19,FRANCE,SERIOUS,Antipsychotic drug level above therapeutic; Depressed level of consciousness; Potentiating drug interaction; Tremor,Recovered / resolved
+24984238,2025-02-19,FRANCE,SERIOUS,Drug level above therapeutic; Lactic acidosis,Fatal
+24984747,2025-02-19,FRANCE,SERIOUS,Drug level above therapeutic; Lactic acidosis,Recovered / resolved
+24988517,2025-02-20,UNITED KINGDOM,SERIOUS,Pulmonary embolism; Treatment failure,Recovered / resolved
+24988692,2025-02-20,IE,SERIOUS,Liver injury,Recovered / resolved
+24989004,2025-02-20,FRANCE,SERIOUS,Face oedema; Rash,Recovering / resolving
+24989105,2025-02-20,UNITED KINGDOM,SERIOUS,Abdominal distension; Back pain; Gastrointestinal pain; Hyperhidrosis; Insomnia; Intrusive thoughts; Panic attack; Tremor; Urinary retention,Not recovered / ongoing
+24989291,2025-02-20,FRANCE,SERIOUS,Eosinophilia; Rash,Not recovered / ongoing
+24989348,2025-02-20,ITALY,SERIOUS,Cerebrovascular accident,Unknown
+24989439,2025-02-20,FRANCE,SERIOUS,Colitis microscopic,Not recovered / ongoing
+24989454,2025-02-20,FRANCE,SERIOUS,Acute kidney injury,Recovered / resolved
+24989546,2025-02-20,FRANCE,SERIOUS,Hypercalcaemia,Recovering / resolving
+24990334,2025-02-20,EU,SERIOUS,Colitis; Diarrhoea; Otitis media acute,Recovered / resolved
+24993273,2025-02-21,FRANCE,SERIOUS,Labelled drug-drug interaction issue; Tendon rupture,Recovering / resolving
+24997724,2025-02-22,ITALY,SERIOUS,Anaemia; Intestinal haemorrhage,Not recovered / ongoing
+24997826,2025-02-22,ITALY,SERIOUS,Abdominal pain upper; Drug abuse; Intentional self-injury; Suicide attempt,Recovered / resolved
+24997999,2025-02-22,FRANCE,SERIOUS,Hypokalaemia; Orthostatic hypotension; Potentiating drug interaction,Recovering / resolving
+24998163,2025-02-22,ITALY,SERIOUS,Electrocardiogram QT prolonged; Sinus bradycardia; Syncope,Unknown
+25006602,2025-02-25,PORTUGAL,SERIOUS,Aortic dilatation; Atrial fibrillation; Blood creatinine increased; Cardiac hypertrophy; Chronic kidney disease; Diastolic dysfunction; Drug ineffective; Drug resistance; Headache; Heart failure with preserved ejection fraction; Hypertension; Hypertensive emergency; Left ventricular hypertrophy; Multiple-drug resistance; QRS axis abnormal; Renal sympathetic nerve ablation; Sigmoid-shaped ventricular septum,Not recovered / ongoing
+25007035,2025-02-25,ITALY,SERIOUS,Aggression; Agitation; Drug abuse; Intentional self-injury; Vomiting,Recovered / resolved
+25007823,2025-02-25,FRANCE,SERIOUS,Anti factor V antibody; Benign recurrent intrahepatic cholestasis; Cell death; Cerebral haematoma; Coagulopathy; Device related infection; Hepatic failure; Hypoglycaemia; Hypoxia; Intra-abdominal haemorrhage; Shock haemorrhagic,Fatal
+25007836,2025-02-25,FRANCE,SERIOUS,Acquired haemophilia,Recovering / resolving
+25008577,2025-02-25,ITALY,SERIOUS,Cerebral haemorrhage,Not recovered / ongoing
+25008610,2025-02-25,PORTUGAL,SERIOUS,Hypertension; Hypertensive emergency; Renal sympathetic nerve ablation,Not recovered / ongoing
+25008670,2025-02-25,SPAIN,SERIOUS,Febrile neutropenia,Recovered / resolved
+25008814,2025-02-25,ITALY,SERIOUS,Condition aggravated; Dilated cardiomyopathy; Electrocardiogram QT prolonged; Hypocalcaemia; Trousseau^s sign,Recovering / resolving
+25008822,2025-02-25,FRANCE,SERIOUS,Acute kidney injury,Recovering / resolving
+25008902,2025-02-25,UNITED KINGDOM,SERIOUS,Blood albumin decreased; Drug ineffective; Hypokalaemia,Recovered / resolved
+25012228,2025-02-26,UNITED KINGDOM,SERIOUS,Headache; Nausea; Vertigo,Recovering / resolving
+25012604,2025-02-26,FRANCE,SERIOUS,Caesarean section; Foetal growth restriction; Foetal heart rate disorder; Hypoglycaemia neonatal; Low birth weight baby; Maternal exposure during pregnancy; Normal newborn; Term birth,Recovered / resolved
+25013092,2025-02-26,UNITED KINGDOM,SERIOUS,Blood magnesium decreased; Blood potassium decreased; Ventricular tachycardia,Unknown
+25013240,2025-02-26,FRANCE,SERIOUS,Cholestasis,Recovering / resolving
+25013867,2025-02-26,GERMANY,SERIOUS,Generalised tonic-clonic seizure,Recovering / resolving
+25013886,2025-02-26,ITALY,SERIOUS,Muscular weakness; Subarachnoid haemorrhage; Subdural haematoma,Recovering / resolving
+25014028,2025-02-26,UNITED KINGDOM,SERIOUS,Drug interaction,Unknown
+25015944,2025-02-27,UNITED KINGDOM,SERIOUS,Blister; Joint swelling; Swelling face,Recovering / resolving
+25016073,2025-02-27,FRANCE,SERIOUS,Hypokalaemia,Recovered / resolved
+25017552,2025-02-27,FRANCE,SERIOUS,Altered state of consciousness; Ammonia increased; Amnesia; Cognitive disorder; Confusional state; Disorientation; Dysarthria; Electrocardiogram T wave peaked; Electrocardiogram abnormal; Electroencephalogram abnormal; Encephalopathy; Facial paralysis; Hyperammonaemia; Memory impairment; Neurological symptom; Toxic encephalopathy; White matter lesion,Recovered / resolved
+25017714,2025-02-27,GERMANY,SERIOUS,Abdominal pain upper; Back pain; Chest pain; Eye irritation; Eye pruritus; Head injury; Hypertension; Lymphadenitis; Lymphadenopathy; Pruritus; Scratch; Wrong technique in product usage process,Not recovered / ongoing
+25017911,2025-02-27,UNITED KINGDOM,SERIOUS,Treatment failure,Unknown
+25023087,2025-02-28,ITALY,SERIOUS,Traumatic intracranial haemorrhage,Recovering / resolving
+25023514,2025-02-28,ITALY,SERIOUS,Loss of consciousness; Orthostatic hypotension,Recovering / resolving
+25023607,2025-02-28,FRANCE,SERIOUS,Cardiogenic shock; Wrong patient,Recovered / resolved
+25023658,2025-02-28,FRANCE,SERIOUS,Troponin increased,Not recovered / ongoing
+25026227,2025-03-01,GERMANY,SERIOUS,Death; Polyneuropathy; Respiratory depression,Fatal
+25028609,2025-03-02,POLAND,SERIOUS,Asthenia,Fatal
+25036112,2025-03-04,UNITED KINGDOM,SERIOUS,Drug ineffective,Unknown
+25039361,2025-03-05,POLAND,SERIOUS,Anal haemorrhage,Recovering / resolving
+25039953,2025-03-05,FRANCE,SERIOUS,Rhabdomyolysis,Recovering / resolving
+25039963,2025-03-05,FRANCE,SERIOUS,Pemphigus,Recovering / resolving
+25040847,2025-03-05,FRANCE,SERIOUS,Anticholinergic syndrome; Encephalopathy,Recovered / resolved
+25040902,2025-03-05,SPAIN,SERIOUS,Asthma; Asthmatic crisis; Blood pressure inadequately controlled; Condition aggravated,Recovered / resolved
+25041239,2025-03-05,UNITED KINGDOM,SERIOUS,Ejaculation delayed; Erectile dysfunction; Loss of libido,Not recovered / ongoing
+25043816,2025-03-06,SPAIN,SERIOUS,Acute kidney injury,Recovered / resolved
+25044279,2025-03-06,FRANCE,SERIOUS,Blood creatinine increased; Blood potassium increased; Pancreatitis acute,Recovered / resolved
+25044335,2025-03-06,FRANCE,SERIOUS,Renal failure,Recovering / resolving
+25048586,2025-03-07,UNITED KINGDOM,SERIOUS,Blood pressure abnormal; Blood pressure increased; Blood pressure systolic increased; Headache; Hypertension; Malaise; Nausea; Product blister packaging issue; Product dispensing error; Product packaging issue; Product storage error; Vision blurred,Unknown
+25049865,2025-03-07,FRANCE,SERIOUS,Acute kidney injury; Clostridium difficile colitis,Recovered / resolved
+25055048,2025-03-08,ITALY,SERIOUS,Decreased appetite; Diarrhoea; Feeding disorder; Renal impairment; Vomiting; Weight decreased,Recovering / resolving
+25055082,2025-03-08,UNITED KINGDOM,SERIOUS,Pharyngeal swelling; Swollen tongue,Recovered / resolved
+25055088,2025-03-08,UNITED KINGDOM,SERIOUS,Dry eye,Recovered / resolved
+25055162,2025-03-08,UNITED KINGDOM,SERIOUS,Drug interaction,Unknown
+25055194,2025-03-08,IE,SERIOUS,C-reactive protein increased; Catheter site pain; Catheter site swelling; Catheter site warmth; Cellulitis; Diarrhoea; Haemoglobin abnormal; Hypotension; Intestinal obstruction; Rectal haemorrhage; Red blood cell sedimentation rate increased,Not recovered / ongoing
+25055215,2025-03-08,UNITED KINGDOM,SERIOUS,Drug interaction,Unknown
+25055227,2025-03-08,UNITED KINGDOM,SERIOUS,Miliaria; Photosensitivity reaction,Recovered / resolved
+25062832,2025-03-11,UNITED KINGDOM,SERIOUS,Ageusia; Decreased appetite; Dry mouth,Unknown
+25063322,2025-03-11,UNITED KINGDOM,SERIOUS,Drug interaction,Unknown
+25063910,2025-03-11,EU,SERIOUS,Acute kidney injury; Cardiac failure congestive; Drug interaction; Hypokalaemia; Myopathy toxic; Renal impairment; Rhabdomyolysis,Recovering / resolving
+25063935,2025-03-11,GERMANY,SERIOUS,Dyspnoea; Hypoacusis; Inappropriate schedule of product administration; Pulmonary oedema; Tendon rupture,Not recovered / ongoing
+25066459,2025-03-12,GERMANY,SERIOUS,Immune-mediated lung disease; Off label use,Recovering / resolving
+25066645,2025-03-12,UNITED KINGDOM,SERIOUS,Duodenal ulcer haemorrhage,Recovering / resolving
+25067040,2025-03-12,UNITED KINGDOM,SERIOUS,Hyponatraemia,Unknown
+25067414,2025-03-12,GERMANY,SERIOUS,Bladder disorder; Dehydration; Dizziness; Exostosis; General physical health deterioration; Headache; Nausea; Off label use; Syncope; Urinary retention; Vomiting,Recovered / resolved
+25067529,2025-03-12,GERMANY,SERIOUS,Cardiac failure acute,Unknown
+25067889,2025-03-12,POLAND,SERIOUS,Hyponatraemia; Neuropathy peripheral; Underdose,Not recovered / ongoing
+25077217,2025-03-14,ITALY,SERIOUS,Loss of consciousness; Syncope,Recovering / resolving
+25078744,2025-03-14,FRANCE,SERIOUS,Acute kidney injury; Fall,Recovering / resolving
+25080666,2025-03-15,UNITED KINGDOM,SERIOUS,Hemiparesis; Paraesthesia,Recovered / resolved
+25080914,2025-03-15,FRANCE,SERIOUS,Atrioventricular block complete; Hyperkalaemia,Recovered / resolved
+25080935,2025-03-15,FRANCE,SERIOUS,Fall; Haematoma,Fatal
+25081317,2025-03-16,SPAIN,SERIOUS,Acute pulmonary oedema; Anuria; Cutaneous vasculitis; Dyspnoea; Hyperkalaemia; Renal failure,Unknown
+25087457,2025-03-18,PORTUGAL,SERIOUS,Bradycardia; Drug ineffective,Unknown
+25088417,2025-03-18,FRANCE,SERIOUS,Drug level increased; Lactic acidosis,Recovered / resolved
+25088953,2025-03-18,FRANCE,SERIOUS,Leukopenia; Renal abscess,Recovered / resolved
+25093452,2025-03-19,FRANCE,SERIOUS,Overdose; Tremor; Vomiting,Recovered / resolved
+25093622,2025-03-19,FRANCE,SERIOUS,Erectile dysfunction; Sexual dysfunction,Recovered / resolved
+25097898,2025-03-20,FRANCE,SERIOUS,Cardiac disorder; Drug interaction; Labelled drug-drug interaction issue,Unknown
+25098189,2025-03-20,ITALY,SERIOUS,Acute kidney injury; Confusional state; Dysstasia; Metabolic acidosis; Vomiting,Recovered / resolved
+25099895,2025-03-20,FRANCE,SERIOUS,Foetal growth restriction; Foetal heart rate disorder; Hospitalisation; Maternal exposure during pregnancy; Neonatal gastrointestinal disorder; Neonatal hyperglycaemia; Neonatal respiratory depression; Premature baby; Transfusion,Recovered / resolved
+25100240,2025-03-20,FRANCE,SERIOUS,Foetal growth restriction; Hospitalisation; Maternal exposure during pregnancy; Neonatal gastrointestinal disorder; Neonatal respiratory depression; Premature baby,Recovered / resolved
+25103643,2025-03-21,GERMANY,SERIOUS,Electrocardiogram QT prolonged; Sinus bradycardia,Not recovered / ongoing
+25103650,2025-03-21,GERMANY,SERIOUS,Aggression; Delirium,Recovered / resolved
+25103779,2025-03-21,FRANCE,SERIOUS,Bronchial obstruction; Herpes virus infection; Neoplasm progression; Thrombotic microangiopathy,Unknown
+25104878,2025-03-21,UNITED KINGDOM,SERIOUS,Pruritus; Swollen tongue,Recovered / resolved
+25108310,2025-03-22,FRANCE,SERIOUS,Extremity necrosis,Unknown
+25108470,2025-03-22,FRANCE,SERIOUS,Acute kidney injury,Recovering / resolving
+25108665,2025-03-22,GERMANY,SERIOUS,Bundle branch block right; Chest pain; Dyspnoea; Hypotension,Unknown
+25117025,2025-03-25,UNITED KINGDOM,SERIOUS,Ototoxicity,Unknown
+25117268,2025-03-25,FRANCE,SERIOUS,Pulmonary alveolar haemorrhage,Not recovered / ongoing
+25117300,2025-03-25,ITALY,SERIOUS,Acute kidney injury,Recovering / resolving
+25121537,2025-03-26,FRANCE,SERIOUS,Sinus node dysfunction,Recovering / resolving
+25122724,2025-03-26,UNITED KINGDOM,SERIOUS,Cough; Dyspnoea; Wheezing,Not recovered / ongoing
+25123019,2025-03-26,FRANCE,SERIOUS,Foetal growth restriction; Foetal heart rate disorder; Low birth weight baby; Maternal exposure during pregnancy; Microcephaly; Term birth; Transposition of the great vessels,Recovered / resolved
+25123074,2025-03-26,UNITED KINGDOM,SERIOUS,Abdominal pain upper; Loss of consciousness,Recovered / resolved
+25123104,2025-03-26,FRANCE,SERIOUS,Pemphigoid,Not recovered / ongoing
+25123726,2025-03-26,PORTUGAL,SERIOUS,Acute kidney injury; Atrial fibrillation; Cardiac failure; Decreased appetite; Dry skin; Erythema; Haemorrhoidal haemorrhage; Hyperglycaemia; Neuropathy peripheral; Neutropenia; Rectal haemorrhage; Respiratory failure; Skin exfoliation; Weight decreased,Unknown
+25128211,2025-03-27,UNITED KINGDOM,SERIOUS,Melaena,Recovered / resolved
+25128264,2025-03-27,UNITED KINGDOM,SERIOUS,Treatment failure,Recovering / resolving
+25132371,2025-03-28,GERMANY,SERIOUS,Acute kidney injury; Drug abuse; Drug interaction; Hypercapnic coma; Neurological decompensation; Respiratory acidosis; Toxicity to various agents,Recovered / resolved
+25132695,2025-03-28,FRANCE,SERIOUS,Anaemia; Condition aggravated; Haematoma muscle; Thrombocytopenia,Recovering / resolving
+25133337,2025-03-28,FRANCE,SERIOUS,Cardiac failure acute; Sinus bradycardia,Recovered / resolved
+25134409,2025-03-28,ITALY,SERIOUS,Dysarthria; Transient ischaemic attack,Recovering / resolving
+25134451,2025-03-28,FRANCE,SERIOUS,Pemphigoid,Not recovered / ongoing
+25134452,2025-03-28,ITALY,SERIOUS,Infusion related reaction,Recovered / resolved
+25134771,2025-03-28,UNITED KINGDOM,SERIOUS,Muscle spasms,Recovered / resolved
+25134870,2025-03-28,FRANCE,SERIOUS,Decreased appetite; Dry mouth; Epistaxis; Hepatic cytolysis; Hepatitis; Paraesthesia oral; Weight decreased,Not recovered / ongoing
+25137541,2025-03-29,FRANCE,SERIOUS,Cardiogenic shock,Recovering / resolving
+25137551,2025-03-29,FRANCE,SERIOUS,Autoimmune haemolytic anaemia; Thrombocytopenia,Not recovered / ongoing
+25137573,2025-03-29,FRANCE,SERIOUS,Immune thrombocytopenia,Not recovered / ongoing
+25137580,2025-03-29,FRANCE,SERIOUS,Confusional state; Dysarthria; Malaise; Sinus tachycardia; Somnolence; Syncope,Recovered / resolved
+25137726,2025-03-29,ITALY,SERIOUS,Nephrotic syndrome; Sepsis,Recovered / resolved
+25137754,2025-03-29,FRANCE,SERIOUS,Endocarditis staphylococcal,Fatal
+25137777,2025-03-29,ITALY,SERIOUS,Clostridium difficile colitis,Recovered / resolved
+25137866,2025-03-29,ITALY,SERIOUS,Drug reaction with eosinophilia and systemic symptoms; Eosinophilia; Lymphadenopathy; Periorbital oedema; Rash morbilliform; Renal failure,Recovering / resolving
+25139255,2025-03-31,FRANCE,SERIOUS,Confusional state; Hypotension,Recovered / resolved
+25139308,2025-03-31,UNITED KINGDOM,SERIOUS,Joint swelling,Recovered / resolved
+25139563,2025-03-31,UNITED KINGDOM,SERIOUS,Subdural haematoma,Recovered / resolved
+25143695,2025-04-01,ITALY,SERIOUS,Lactic acidosis,Recovered / resolved
+25143922,2025-04-01,UNITED KINGDOM,SERIOUS,Cardiac amyloidosis; Chest pain; Circulatory collapse; Dyspnoea; Hypokalaemia; Loss of consciousness; Orthostatic hypotension,Recovered / resolved
+25143930,2025-04-01,UNITED KINGDOM,SERIOUS,Hepatitis,Recovered / resolved
+25144761,2025-04-01,FRANCE,SERIOUS,Acute kidney injury; Lactic acidosis; Poisoning deliberate; Shock,Recovered / resolved
+25144939,2025-04-01,BELGIUM,SERIOUS,Pyrexia,Recovered / resolved
+25148867,2025-04-02,GERMANY,SERIOUS,Dysphagia; Hypotension; Immune-mediated lung disease,Recovered / resolved
+25149267,2025-04-02,ITALY,SERIOUS,Hyperkalaemia,Recovered / resolved
+25149308,2025-04-02,FRANCE,SERIOUS,Drug interaction; Neuroleptic malignant syndrome,Recovered / resolved
+25153169,2025-04-03,FRANCE,SERIOUS,Foetal growth restriction; Maternal exposure during pregnancy; Normal newborn; Term birth,Recovered / resolved
+25154394,2025-04-03,UNITED KINGDOM,SERIOUS,Haemorrhage intracranial; Thrombocytopenia,Not recovered / ongoing
+25159299,2025-04-04,GERMANY,SERIOUS,Dizziness; Fall; Gait disturbance; Syncope,Not recovered / ongoing
+25163535,2025-04-05,POLAND,SERIOUS,Gastrointestinal haemorrhage; Renal impairment,Recovering / resolving
+25163868,2025-04-05,GERMANY,SERIOUS,Blood thyroid stimulating hormone abnormal; Hyperthyroidism; Muscle spasms; Oedema peripheral,Not recovered / ongoing
+25164028,2025-04-05,FRANCE,SERIOUS,Fournier^s gangrene; Septic shock,Fatal
+25164055,2025-04-05,FRANCE,SERIOUS,Pancreatitis acute,Recovered / resolved
+25165561,2025-04-07,FRANCE,SERIOUS,Agranulocytosis; Cholestatic liver injury,Not recovered / ongoing
+25166634,2025-04-07,FRANCE,SERIOUS,Hypokalaemia,Recovered / resolved
+25166741,2025-04-07,FRANCE,SERIOUS,Gynaecomastia,Recovered / resolved
+25166932,2025-04-07,UNITED KINGDOM,SERIOUS,Migraine,Not recovered / ongoing
+25170438,2025-04-08,FI,SERIOUS,Accidental exposure to product; Adverse drug reaction; Anxiety; Arthralgia; Blood pressure increased; Chills; Discomfort; Dyspnoea; Exposure via inhalation; Exposure via partner; Hypoaesthesia; Joint effusion; Myalgia; Nausea; Paraesthesia; Product complaint; Product formulation issue; Product substitution issue; Reaction to excipient; Seizure; Skin burning sensation; Tremor,Not recovered / ongoing
+25170910,2025-04-08,FRANCE,SERIOUS,Hypotension,Recovered / resolved
+25171388,2025-04-08,FRANCE,SERIOUS,Low birth weight baby; Maternal exposure during pregnancy; Premature baby,Recovered / resolved
+25171693,2025-04-08,FRANCE,SERIOUS,Acute kidney injury; Disturbance in attention; Hypotension; Sinus bradycardia; Wrong patient received product,Recovered / resolved
+25172780,2025-04-08,FRANCE,SERIOUS,Rash morbilliform,Recovering / resolving
+25176112,2025-04-09,FRANCE,SERIOUS,Lip oedema,Recovered / resolved
+25176655,2025-04-09,UNITED KINGDOM,SERIOUS,Atrial fibrillation; Heart rate increased,Recovered / resolved
+25177139,2025-04-09,FRANCE,SERIOUS,Acute kidney injury; Dysphagia; General physical health deterioration,Fatal
+25181463,2025-04-10,UNITED KINGDOM,SERIOUS,Chest pain; Condition aggravated; Orthostatic hypotension,Recovered / resolved
+25181557,2025-04-10,FRANCE,SERIOUS,Acute kidney injury; Atrioventricular block; Hypotension,Recovering / resolving
+25181724,2025-04-10,GERMANY,SERIOUS,Abdominal pain; Ileus,Recovering / resolving
+25182125,2025-04-10,ITALY,SERIOUS,Syncope,Recovered / resolved
+25187835,2025-04-11,GERMANY,SERIOUS,Cerebral infarction; Drug interaction; Hallucination; Loss of consciousness; Suicidal ideation; Suicide attempt; auditory,Recovered / resolved
+25191358,2025-04-11,FRANCE,SERIOUS,Tubulointerstitial nephritis,Not recovered / ongoing
+25191362,2025-04-11,SPAIN,SERIOUS,Chronic kidney disease; Lactic acidosis,Recovered / resolved
+25191366,2025-04-11,FRANCE,SERIOUS,Haematuria; Intestinal haematoma; Pyelonephritis acute; Renal haematoma,Recovering / resolving
+25191370,2025-04-11,FRANCE,SERIOUS,Amaurosis,Recovered / resolved
+25191382,2025-04-11,FRANCE,SERIOUS,Acute kidney injury,Not recovered / ongoing
+25197782,2025-04-15,UNITED KINGDOM,SERIOUS,Aura; Balance disorder; Diplopia; Dizziness; Drug monitoring procedure not performed; Gait disturbance; Vertigo; Visual impairment,Not recovered / ongoing
+25198763,2025-04-15,FRANCE,SERIOUS,Drug interaction; Overdose; Respiratory syncytial virus infection,Unknown
+25202021,2025-04-16,FRANCE,SERIOUS,Bone marrow failure,Recovered / resolved
+25202610,2025-04-16,FRANCE,SERIOUS,Erythema,Recovering / resolving
+25206298,2025-04-17,GERMANY,SERIOUS,Therapeutic response changed,Recovered / resolved
+25206340,2025-04-17,FRANCE,SERIOUS,Acute kidney injury; Pancytopenia,Recovered / resolved
+25206481,2025-04-17,FRANCE,SERIOUS,Linear IgA disease,Recovered / resolved
+25206508,2025-04-17,EU,SERIOUS,Death; Faeces discoloured; Myasthenia gravis; Respiratory failure; Toxicity to various agents,Fatal
+25211549,2025-04-18,UNITED KINGDOM,SERIOUS,Liver injury,Not recovered / ongoing
+25213392,2025-04-18,UNITED KINGDOM,SERIOUS,Dyspnoea; Fatigue; Malaise; Wheezing,Recovered / resolved
+25216918,2025-04-19,FRANCE,SERIOUS,Skin erosion,Not recovered / ongoing
+25217031,2025-04-19,EU,SERIOUS,COVID-19; Drug ineffective; IVth nerve paralysis; IgA nephropathy,Unknown
+25217359,2025-04-20,FRANCE,SERIOUS,Interstitial lung disease,Not recovered / ongoing
+25218216,2025-04-21,UNITED KINGDOM,SERIOUS,Dry mouth,Not recovered / ongoing
+25223687,2025-04-22,ITALY,SERIOUS,Drug effective for unapproved indication; Drug ineffective; Oedema peripheral,Not recovered / ongoing
+25224052,2025-04-22,ITALY,SERIOUS,Heart rate increased; Hyperthyroidism; Neutropenia; Sinus tachycardia; Therapeutic response decreased,Unknown
+25229228,2025-04-23,UNITED KINGDOM,SERIOUS,Back pain; Rash; Swelling,Recovering / resolving
+25229565,2025-04-23,FRANCE,SERIOUS,Hypoglycaemia neonatal; Maternal exposure during pregnancy; Neonatal respiratory distress,Recovered / resolved
+25229672,2025-04-23,GERMANY,SERIOUS,Bradycardia; Hypotension; Intentional product misuse; Respiratory failure,Recovered / resolved
+25229871,2025-04-23,FRANCE,SERIOUS,Renal tubular disorder,Not recovered / ongoing
+25233240,2025-04-24,FRANCE,SERIOUS,Thrombocytopenia,Unknown
+25234657,2025-04-24,FRANCE,SERIOUS,Abdominal distension; Abdominal rigidity; Activated partial thromboplastin time shortened; Blood creatinine increased; Haemoglobin decreased; International normalised ratio increased; Overdose; Retroperitoneal haematoma; Shock haemorrhagic,Not recovered / ongoing
+25238700,2025-04-25,GERMANY,SERIOUS,Hypothyroidism,Not recovered / ongoing
+25239144,2025-04-25,UNITED KINGDOM,SERIOUS,Alanine aminotransferase increased; Chronic obstructive pulmonary disease,Unknown
+25239246,2025-04-25,UNITED KINGDOM,SERIOUS,Cerebral haemorrhage; Cerebrovascular accident,Fatal
+25239411,2025-04-25,GERMANY,SERIOUS,Abdominal pain; Diarrhoea; Fatigue; Hypothyroidism; Intentional product use issue; Nausea; Neutropenia; Rash,Not recovered / ongoing
+25241950,2025-04-26,IE,SERIOUS,Hypnopompic hallucination; Sleep disorder,Recovering / resolving
+25242442,2025-04-27,SPAIN,SERIOUS,Acute kidney injury; Drug interaction; Hepatotoxicity; Myopathy; Rhabdomyolysis,Recovering / resolving
+25242443,2025-04-27,SPAIN,SERIOUS,Therapy partial responder,Unknown
+25243162,2025-04-28,ITALY,SERIOUS,Syncope,Recovering / resolving
+25243204,2025-04-28,UNITED KINGDOM,SERIOUS,Arthritis reactive; Rash,Recovered / resolved
+25243486,2025-04-28,POLAND,SERIOUS,Asthenia; Dizziness; Electrocardiogram QT prolonged; Hypokalaemia; Long QT syndrome; Sinus rhythm; Syncope; Torsade de pointes; Ventricular arrhythmia; Ventricular tachycardia,Recovering / resolving
+25243980,2025-04-28,FRANCE,SERIOUS,Disturbance in attention; Hyperglycaemia; Somnolence; Wrong patient received product,Recovered / resolved
+25244377,2025-04-28,POLAND,SERIOUS,Hypotonia; Suicide attempt; Toxicity to various agents,Recovering / resolving
+25248790,2025-04-29,SPAIN,SERIOUS,Abdominal distension; Cerebrovascular accident; Dizziness; Fluid retention; Hypoaesthesia; Joint swelling; Micturition disorder; Oedema peripheral; Pain; Peripheral swelling; Sleep disorder,Recovered / resolved
+25249931,2025-04-29,GERMANY,SERIOUS,Adverse drug reaction; Bronchitis; Interstitial lung disease; Oedema peripheral; Respiratory failure; Toxicity to various agents,Not recovered / ongoing
+25250858,2025-04-29,FRANCE,SERIOUS,Drug ineffective; Factor X deficiency,Unknown
+25250922,2025-04-29,GERMANY,SERIOUS,Alcoholism; Drug dependence; Feeling drunk; Labelled drug-disease interaction issue; Product substitution issue; Sleep disorder; Somnolence; Speech disorder,Recovered / resolved
+25251152,2025-04-29,ITALY,SERIOUS,Chest discomfort; Chills; Headache; Hyperhidrosis,Recovered / resolved
+25254595,2025-04-30,POLAND,SERIOUS,Suicide attempt; Toxicity to various agents,Unknown
+25256153,2025-04-30,HR,SERIOUS,Electrocardiogram QRS complex shortened; Intentional overdose; Suicide attempt,Unknown
+25258556,2025-05-01,UNITED KINGDOM,SERIOUS,Angioedema,Recovering / resolving
+25258834,2025-05-01,EU,SERIOUS,Anaemia; Atrial fibrillation; Hypokalaemia; Malignant neoplasm progression; Renal failure; Respiratory failure; Seizure; Sepsis; Septic shock; Thrombocytopenia,Recovered / resolved
+25258902,2025-05-01,FRANCE,SERIOUS,Diarrhoea; Electrocardiogram QT prolonged,Recovered / resolved
+25259138,2025-05-01,UNITED KINGDOM,SERIOUS,Confusional state; Fatigue; Hyponatraemia; Nausea,Not recovered / ongoing
+25259190,2025-05-01,FRANCE,SERIOUS,Bradycardia; Hypotension,Recovered / resolved
+25262968,2025-05-02,UNITED KINGDOM,SERIOUS,Erectile dysfunction; Hot flush,Recovered / resolved
+25263047,2025-05-02,ITALY,SERIOUS,Dyspnoea; Hypotension,Fatal
+25263173,2025-05-02,GERMANY,SERIOUS,Constipation; Contusion; Craniofacial fracture; Dizziness; Dysphagia; Fall; Fatigue; Fear of falling; Immobile; Inappropriate antidiuretic hormone secretion; Incorrect dose administered; Mobility decreased; Wrong dose,Unknown
+25265598,2025-05-03,GERMANY,SERIOUS,Sudden death,Fatal
+25265690,2025-05-03,PORTUGAL,SERIOUS,Pruritus; Rash macular; Throat irritation,Recovered / resolved
+25265786,2025-05-03,UNITED KINGDOM,SERIOUS,Fatigue; Heart rate decreased; Peripheral coldness; Pruritus; Sudden hearing loss,Not recovered / ongoing
+25265801,2025-05-03,UNITED KINGDOM,SERIOUS,COVID-19; Drug ineffective; IVth nerve paralysis; IgA nephropathy,Unknown
+25271690,2025-05-06,UNITED KINGDOM,SERIOUS,Myositis,Not recovered / ongoing
+25272045,2025-05-06,UNITED KINGDOM,SERIOUS,Asthenia; Medication error,Not recovered / ongoing
+25277387,2025-05-07,UNITED KINGDOM,SERIOUS,Gastrooesophageal reflux disease; Paraesthesia,Recovering / resolving
+25278828,2025-05-07,ITALY,SERIOUS,Acute myeloid leukaemia; Cardiac failure congestive; Disease progression; Multiple organ dysfunction syndrome; Sepsis; Thrombocytopenia,Fatal
+25282363,2025-05-08,FRANCE,SERIOUS,Hepatic cytolysis,Recovering / resolving
+25282743,2025-05-08,FRANCE,SERIOUS,Acute kidney injury; Hallucination; Nightmare; visual,Not recovered / ongoing
+25282819,2025-05-08,UNITED KINGDOM,SERIOUS,Haemorrhage intracranial; Thrombocytopenia,Not recovered / ongoing
+25282914,2025-05-08,FRANCE,SERIOUS,Colitis; Febrile bone marrow aplasia,Recovered / resolved
+25282958,2025-05-08,UNITED KINGDOM,SERIOUS,Abdominal pain; Agranulocytosis; Nausea; Neutropenic sepsis,Recovered / resolved
+25286328,2025-05-09,ITALY,SERIOUS,Loss of consciousness,Recovering / resolving
+25286488,2025-05-09,FRANCE,SERIOUS,Acute kidney injury; Anaemia,Recovered / resolved
+25286888,2025-05-09,UNITED KINGDOM,SERIOUS,Confusional state; Electrolyte imbalance; Hypokalaemia; Hyponatraemia; Osmotic demyelination syndrome; Somnolence,Recovered with sequelae
+25286895,2025-05-09,FRANCE,SERIOUS,Herpes zoster,Recovered with sequelae
+25287192,2025-05-09,UNITED KINGDOM,SERIOUS,Heart rate irregular; Hyperhidrosis; Hypertension,Recovered / resolved
+25287381,2025-05-09,UNITED KINGDOM,SERIOUS,Liver function test abnormal; Transaminases abnormal,Unknown
+25287571,2025-05-09,UNITED KINGDOM,SERIOUS,Hyponatraemia,Recovered / resolved
+25287807,2025-05-09,FRANCE,SERIOUS,Electrocardiogram QT prolonged; Hypocalcaemia; Hypomagnesaemia,Recovered / resolved
+25298788,2025-05-12,EU,SERIOUS,Acute kidney injury; Diarrhoea; Dysarthria; Electrolyte imbalance; Fall; Hallucination; Hypokalaemia; Hyponatraemia; Hypotension; Restlessness; Syncope,Recovered / resolved
+25299031,2025-05-12,SPAIN,SERIOUS,Erectile dysfunction,Recovering / resolving
+25299145,2025-05-12,FRANCE,SERIOUS,Acute kidney injury; Hepatic cytolysis; Rash maculo-papular,Recovering / resolving
+25307220,2025-05-13,FRANCE,SERIOUS,Angina pectoris; Asthenia; Cardiac failure; Diarrhoea; Fatigue; Heart rate decreased; Hypokalaemia; Insomnia; Intentional product misuse; Intentional product use issue; Pelvic organ prolapse; Peripheral coldness; Polyuria; Urinary incontinence,Not recovered / ongoing
+25310411,2025-05-14,POLAND,SERIOUS,Anaemia; Asthenia; Hyponatraemia; Wolff-Parkinson-White syndrome,Not recovered / ongoing
+25310526,2025-05-14,UNITED KINGDOM,SERIOUS,Depression; Dyspnoea; Nausea; Panic attack,Recovering / resolving
+25317988,2025-05-15,ITALY,SERIOUS,Drug ineffective; Somnolence,Recovered / resolved
+25318310,2025-05-15,ITALY,SERIOUS,Acidosis; Diarrhoea; Oliguria; Vomiting,Recovering / resolving
+25318420,2025-05-15,UNITED KINGDOM,SERIOUS,Acute coronary syndrome; Acute myocardial infarction,Recovered / resolved
+25318424,2025-05-15,UNITED KINGDOM,SERIOUS,Diplopia,Recovered / resolved
+25318484,2025-05-15,UNITED KINGDOM,SERIOUS,Acute kidney injury,Recovered / resolved
+25318568,2025-05-15,FRANCE,SERIOUS,Low birth weight baby; Maternal exposure during pregnancy; Premature baby,Recovered / resolved
+25321874,2025-05-16,UNITED KINGDOM,SERIOUS,IVth nerve paralysis,Unknown
+25323837,2025-05-16,GERMANY,SERIOUS,Pancreatitis,Recovered / resolved
+25327402,2025-05-17,EU,SERIOUS,Blood pressure decreased; Constipation; Contusion; Craniofacial fracture; Dizziness; Dysphagia; Fall; Fatigue; Fear of falling; Hyponatraemia; Immobile; Inappropriate antidiuretic hormone secretion; Incorrect dose administered; Lethargy; Medication error; Mobility decreased; Prescribed overdose; Renal impairment,Recovered / resolved
+25327503,2025-05-17,FRANCE,SERIOUS,Agranulocytosis,Recovered / resolved
+25327507,2025-05-17,FRANCE,SERIOUS,Angina pectoris; Asthenia; Cardiac failure; Diarrhoea; Fatigue; Heart rate decreased; Hypokalaemia; Insomnia; Pelvic organ prolapse; Peripheral coldness; Polyuria; Urinary incontinence,Not recovered / ongoing
+25333893,2025-05-20,FRANCE,SERIOUS,Dysuria; Oedema peripheral; Oxygen saturation decreased; Product substitution; Urinary retention; Weight increased,Recovered / resolved
+25333958,2025-05-20,ITALY,SERIOUS,Motor dysfunction; Myalgia,Recovering / resolving
+25335387,2025-05-20,FRANCE,SERIOUS,Angioedema; Diarrhoea; Drug interaction,Unknown
+25336030,2025-05-20,FRANCE,SERIOUS,Acute generalised exanthematous pustulosis,Recovered / resolved
+25336046,2025-05-20,FRANCE,SERIOUS,Oesophageal candidiasis; Oral candidiasis,Recovered / resolved
+25339473,2025-05-21,UNITED KINGDOM,SERIOUS,Peripheral swelling,Unknown
+25339477,2025-05-21,FRANCE,SERIOUS,Calculus urinary,Not recovered / ongoing
+25340570,2025-05-21,UNITED KINGDOM,SERIOUS,Tachycardia; Tinnitus,Not recovered / ongoing
+25340982,2025-05-21,PORTUGAL,SERIOUS,Renal impairment,Recovering / resolving
+25341255,2025-05-21,EU,SERIOUS,Arrhythmia; Dehydration; Disease risk factor; Drug interaction; Drug-disease interaction; Electrolyte imbalance; Nausea; No adverse event; Serotonin syndrome; Ventricular arrhythmia; Vomiting,Unknown
+25345749,2025-05-22,ITALY,SERIOUS,Loss of consciousness,Recovering / resolving
+25346246,2025-05-22,UNITED KINGDOM,SERIOUS,Hypokalaemia; Hypomagnesaemia,Recovered / resolved
+25350246,2025-05-23,FRANCE,SERIOUS,Anaphylactic reaction,Recovered / resolved
+25351249,2025-05-23,FRANCE,SERIOUS,Accidental overdose; Hypotension; Sinoatrial block,Recovering / resolving
+25351254,2025-05-23,FRANCE,SERIOUS,Haemorrhagic stroke; Hypertension; Urinary retention,Recovered with sequelae
+25351450,2025-05-23,FRANCE,SERIOUS,Eyelid injury; Pruritus; Rash scarlatiniform,Not recovered / ongoing
+25352070,2025-05-23,UNITED KINGDOM,SERIOUS,Drug interaction,Unknown
+25355021,2025-05-24,UNITED KINGDOM,SERIOUS,Poisoning; Sepsis,Fatal
+25355679,2025-05-25,SPAIN,SERIOUS,Abdominal pain; Malaise; Melaena,Recovered / resolved
+25355693,2025-05-25,HR,SERIOUS,Electrocardiogram QRS complex shortened; Intentional overdose; Suicide attempt,Unknown
+25356717,2025-05-26,ITALY,SERIOUS,Motor dysfunction; Myalgia,Recovering / resolving
+25357821,2025-05-26,POLAND,SERIOUS,Central nervous system haemorrhage; Drug interaction; Labelled drug-drug interaction issue,Unknown
+25358018,2025-05-26,FRANCE,SERIOUS,Polyarthritis,Recovering / resolving
+25358067,2025-05-26,FRANCE,SERIOUS,Atrioventricular block; Bradycardia; Overdose,Recovered / resolved
+25358250,2025-05-26,UA,SERIOUS,Off label use,Unknown
+25362159,2025-05-27,FRANCE,SERIOUS,Acute kidney injury; Oedema peripheral,Recovered / resolved
+25366264,2025-05-28,UNITED KINGDOM,SERIOUS,Cyanopsia,Recovering / resolving
+25367757,2025-05-28,POLAND,SERIOUS,Atrial fibrillation; Cardiac failure; Cardiac failure chronic; Drug abuse; Dyslipidaemia; Myocardial infarction; Off label use,Recovering / resolving
+25372181,2025-05-29,BELGIUM,SERIOUS,Acute kidney injury; Blood thyroid stimulating hormone increased; Decreased appetite; Diarrhoea; Hepatic function abnormal; Hyperkalaemia; Labelled drug-drug interaction issue; Metabolic acidosis; Rhabdomyolysis,Not recovered / ongoing
+25376854,2025-05-30,UNITED KINGDOM,SERIOUS,Neuroleptic malignant syndrome; Serotonin syndrome,Recovered / resolved
+25378495,2025-05-30,FRANCE,SERIOUS,Hepatitis acute,Recovering / resolving
+25381810,2025-05-31,POLAND,SERIOUS,Drug interaction; Ventricular arrhythmia,Unknown
+25381915,2025-05-31,UNITED KINGDOM,SERIOUS,Dizziness; Fall; Femoral neck fracture,Recovered / resolved
+25381958,2025-05-31,UNITED KINGDOM,SERIOUS,Contusion; Haemoptysis,Recovered / resolved
+25382381,2025-06-01,GERMANY,SERIOUS,Drug ineffective,Unknown
+25388281,2025-06-03,PORTUGAL,SERIOUS,Anaemia; Diarrhoea; Pruritus; Rash; Renal pain,Not recovered / ongoing
+25388525,2025-06-03,UNITED KINGDOM,SERIOUS,Abdominal distension; Alopecia; Dizziness; Extrasystoles; Fatigue; Heart rate decreased; Peripheral coldness; Sleep disorder,Not recovered / ongoing
+25388850,2025-06-03,UNITED KINGDOM,SERIOUS,Clostridium difficile infection,Recovering / resolving
+25389249,2025-06-03,FRANCE,SERIOUS,Drug ineffective; Intentional product use issue; Off label use; Therapy non-responder,Unknown
+25389536,2025-06-03,SPAIN,SERIOUS,Drug ineffective; Nausea; Vomiting,Unknown
+25389670,2025-06-03,UNITED STATES,SERIOUS,Atrial fibrillation; Hyperthyroidism; Mitral valve incompetence; Ventricular tachycardia,Recovered / resolved
+25393094,2025-06-04,ITALY,SERIOUS,Hypertriglyceridaemia; Off label use,Unknown
+25393833,2025-06-04,SWEDEN,SERIOUS,Dysphagia; Multiple acyl-coenzyme A dehydrogenase deficiency; Muscular weakness; Wheelchair user,Not recovered / ongoing
+25393936,2025-06-04,ITALY,SERIOUS,Acute kidney injury,Fatal
+25394964,2025-06-04,FRANCE,SERIOUS,Acute kidney injury; Gastrointestinal disorder; Hyperkalaemia; Lactic acidosis; Shock,Fatal
+25395270,2025-06-04,UNITED KINGDOM,SERIOUS,Liver function test abnormal,Recovered / resolved
+25400327,2025-06-05,UNITED KINGDOM,SERIOUS,Haematochezia,Recovered / resolved
+25400397,2025-06-05,UNITED KINGDOM,SERIOUS,Acute kidney injury,Unknown
+25400812,2025-06-05,UNITED KINGDOM,SERIOUS,Fatigue; Lethargy,Recovered / resolved
+25401071,2025-06-05,POLAND,SERIOUS,Bradycardia; Suicide attempt; Toxicity to various agents,Recovered / resolved
+25404945,2025-06-06,FRANCE,SERIOUS,Cardiogenic shock; Overdose; Poisoning,Unknown
+25405117,2025-06-06,FRANCE,SERIOUS,Diplegia,Recovering / resolving
+25406074,2025-06-06,FRANCE,SERIOUS,Drug reaction with eosinophilia and systemic symptoms,Recovered / resolved
+25409056,2025-06-07,FRANCE,SERIOUS,Atrial fibrillation; Bradycardia; Chronotropic incompetence; Drug ineffective; Intentional product use issue; Off label use; Overdose; Product use issue; Sinus node dysfunction,Recovered / resolved
+25409237,2025-06-07,FRANCE,SERIOUS,Acute kidney injury,Recovered / resolved
+25409243,2025-06-07,FRANCE,SERIOUS,Subacute cutaneous lupus erythematosus,Recovered / resolved
+25409374,2025-06-07,UNITED KINGDOM,SERIOUS,Brain fog; Medication error,Not recovered / ongoing
+25409428,2025-06-07,UNITED KINGDOM,SERIOUS,Dyspnoea; Medication error,Recovered / resolved
+25410761,2025-06-09,UNITED KINGDOM,SERIOUS,Acute kidney injury,Not recovered / ongoing
+25411668,2025-06-09,UNITED KINGDOM,SERIOUS,Dizziness; Hypertensive crisis,Recovering / resolving
+25412577,2025-06-09,ITALY,SERIOUS,Drug ineffective,Unknown
+25422712,2025-06-11,ITALY,SERIOUS,Blood pressure increased; Drug ineffective; Drug resistance; Off label use,Recovering / resolving
+25428113,2025-06-12,UNITED KINGDOM,SERIOUS,Arthralgia; Muscle tightness; Off label use; Pain in extremity; Walking aid user,Recovering / resolving
+25428644,2025-06-12,POLAND,SERIOUS,Drug ineffective,Unknown
+25428646,2025-06-12,UNITED KINGDOM,SERIOUS,Arthralgia; Fluid retention; Hypertension; Ocular hyperaemia; Osteoporosis; Weight increased,Not recovered / ongoing
+25432209,2025-06-13,UNITED KINGDOM,SERIOUS,Delirium,Recovered / resolved
+25432749,2025-06-13,GERMANY,SERIOUS,Fatigue; Fibrin D dimer increased; Syncope,Not recovered / ongoing
+25432788,2025-06-13,UNITED KINGDOM,SERIOUS,Chest discomfort,Recovered / resolved
+25437825,2025-06-16,POLAND,SERIOUS,Infarction; Leriche syndrome; Peripheral arterial occlusive disease; Peripheral artery occlusion; Peripheral ischaemia; Renal infarct; Splenic infarction,Unknown
+25438412,2025-06-16,FRANCE,SERIOUS,Epistaxis; Fall,Fatal
+25439832,2025-06-16,ITALY,SERIOUS,Acute kidney injury,Recovered / resolved
+25442830,2025-06-17,UNITED KINGDOM,SERIOUS,Condition aggravated; Supraventricular tachycardia,Recovered / resolved
+25443131,2025-06-17,FRANCE,SERIOUS,Asthenia; Gait disturbance; Hypotension; Product administration error; Sinus bradycardia; Speech disorder,Recovered / resolved
+25443354,2025-06-17,FRANCE,SERIOUS,Condition aggravated; Mixed liver injury,Recovering / resolving
+25444366,2025-06-17,FRANCE,SERIOUS,Liver disorder; Myositis,Recovering / resolving
+25444430,2025-06-17,BELGIUM,SERIOUS,Confusional state; Hyponatraemia; Urinary tract infection; Vertebrobasilar stroke,Not recovered / ongoing
+25445448,2025-06-17,FRANCE,SERIOUS,Cholestasis; Rash maculo-papular,Recovering / resolving
+25448818,2025-06-18,UNITED KINGDOM,SERIOUS,Confusional state; Disorientation; Palpitations; Sedation,Unknown
+25450050,2025-06-18,FRANCE,SERIOUS,Bradycardia; Hypotension; Intentional overdose; Renal failure; Shock; Somnolence; Suicide attempt; Toxicity to various agents,Unknown
+25453501,2025-06-19,EU,SERIOUS,Diarrhoea; Enterocolitis; Gastrointestinal disorder; Intestinal intraepithelial lymphocytes increased; Intestinal villi atrophy; Weight decreased,Recovered / resolved
+25453723,2025-06-19,UNITED KINGDOM,SERIOUS,Joint swelling,Recovering / resolving
+25453725,2025-06-19,UNITED KINGDOM,SERIOUS,Duodenal ulcer,Not recovered / ongoing
+25453820,2025-06-19,UNITED KINGDOM,SERIOUS,Bradycardia,Recovered / resolved
+25453840,2025-06-19,POLAND,SERIOUS,Bradycardia; Suicide attempt; Toxicity to various agents,Recovering / resolving
+25454348,2025-06-19,UNITED KINGDOM,SERIOUS,Neuropathy peripheral,Unknown
+25454410,2025-06-19,ITALY,SERIOUS,Alanine aminotransferase increased; Condition aggravated; Pain; Pyrexia; Transaminases increased,Recovered with sequelae
+25454690,2025-06-19,GERMANY,SERIOUS,Atrial septal defect; Cardiac hypertrophy; Cardiac septal hypertrophy; Cleft palate; Foetal exposure during pregnancy; Hypertrophic cardiomyopathy; Large for dates baby,Recovered / resolved
+25455490,2025-06-19,POLAND,SERIOUS,Asthenia; Hyporeflexia; Hypotony of eye; Muscular weakness; Musculoskeletal stiffness; Myocardial infarction; Seizure,Unknown
+25455510,2025-06-19,CANADA,SERIOUS,Therapy non-responder,Unknown
+25459553,2025-06-20,SPAIN,SERIOUS,Pneumonitis,Not recovered / ongoing
+25459633,2025-06-20,FRANCE,SERIOUS,Dyslipidaemia,Not recovered / ongoing
+25459724,2025-06-20,GERMANY,SERIOUS,Agitation; Apraxia; Blood creatine phosphokinase increased; Chills; Cold sweat; Disorientation; Dysarthria; Hallucinations; Hypernatraemia; Hypokalaemia; Intention tremor; Neuroleptic malignant syndrome; Postural tremor; Pyrexia; Resting tremor; Serotonin syndrome; mixed,Recovered / resolved
+25460310,2025-06-20,RO,SERIOUS,Condition aggravated; Ventricle rupture,Unknown
+25461380,2025-06-20,FRANCE,SERIOUS,Febrile bone marrow aplasia; Septic shock,Fatal
+25461442,2025-06-20,ITALY,SERIOUS,Off label use; Spontaneous haematoma,Recovered / resolved
+25461487,2025-06-20,FRANCE,SERIOUS,Serotonin syndrome,Not recovered / ongoing
+25463792,2025-06-21,GERMANY,SERIOUS,Polyneuropathy,Not recovered / ongoing
+25463940,2025-06-21,EU,SERIOUS,Anaemia; Haemarthrosis; Pain,Recovering / resolving
+25464187,2025-06-21,SA,SERIOUS,Exposure during pregnancy; Premature delivery,Unknown
+25464227,2025-06-21,POLAND,SERIOUS,Ischaemic nephropathy; Leriche syndrome; Peripheral arterial occlusive disease; Peripheral artery bypass; Spleen ischaemia; Ulnar nerve injury,Unknown
+25464251,2025-06-21,UNITED KINGDOM,SERIOUS,Cerebrovascular accident; Disability; Drug dose titration not performed; Hyperkalaemia; Nervous system disorder; Product prescribing issue; Therapy cessation; Vomiting,Not recovered / ongoing
+25464386,2025-06-21,SA,SERIOUS,Foetal exposure during pregnancy; Heart rate decreased; Multiple congenital abnormalities; Premature baby; Respiratory disorder neonatal; Teratogenicity; Underweight,Unknown
+25464802,2025-06-22,SPAIN,SERIOUS,Neoplasm progression; Renal impairment,Unknown
+25465662,2025-06-23,FRANCE,SERIOUS,Angioedema; Diarrhoea; Oedema; Respiratory disorder,Unknown
+25470506,2025-06-24,FRANCE,SERIOUS,Acute hepatic failure,Recovered / resolved
+25474438,2025-06-24,EU,SERIOUS,Anaemia; Ileus paralytic,Recovered / resolved
+25477178,2025-06-25,SPAIN,SERIOUS,Acute myocardial infarction,Recovered / resolved
+25482289,2025-06-26,UNITED KINGDOM,SERIOUS,Skin reaction,Recovering / resolving
+25483112,2025-06-26,SWEDEN,SERIOUS,Asthenia; Cough; Dyspnoea; Muscular weakness; Myositis; Pneumonia; Visual impairment,Fatal
+25483406,2025-06-26,FRANCE,SERIOUS,Acute kidney injury; Encephalopathy; Overdose,Fatal
+25484278,2025-06-26,SPAIN,SERIOUS,Acute kidney injury; Disorientation; Hypotension,Recovering / resolving
+25486746,2025-06-27,EU,SERIOUS,Anaemia postoperative; Device related infection; Knee arthroplasty; Osteoarthritis,Unknown
+25487893,2025-06-27,FRANCE,SERIOUS,Drug interaction; Hyperkalaemia,Unknown
+25487953,2025-06-27,UNITED KINGDOM,SERIOUS,Dyspnoea; Rash papular,Recovered / resolved
+25490087,2025-06-28,UNITED KINGDOM,SERIOUS,Pain in extremity; Peripheral coldness,Recovered / resolved
+25493751,2025-06-30,UNITED KINGDOM,SERIOUS,Eye injury,Not recovered / ongoing
+25493912,2025-06-30,SPAIN,SERIOUS,Sinus bradycardia,Recovered / resolved
+25496565,2025-06-30,FRANCE,SERIOUS,Dysphonia; Dyspnoea; Lip oedema; Tongue oedema,Recovered / resolved
+25496720,2025-07-01,EU,SERIOUS,Asthenia; Toxicity to various agents,Recovering / resolving
+25497099,2025-07-01,EU,SERIOUS,Drug reaction with eosinophilia and systemic symptoms; Eosinophilia; Hepatic failure; Pyrexia; Renal failure,Unknown
+25497984,2025-07-01,UNITED KINGDOM,SERIOUS,Anxiety; Colitis microscopic; Diarrhoea,Not recovered / ongoing
+25497986,2025-07-01,UNITED KINGDOM,SERIOUS,Joint swelling,Recovered / resolved
+25497997,2025-07-01,EU,SERIOUS,Chronic cutaneous lupus erythematosus; Dermatitis psoriasiform; Morphoea; Sinus bradycardia,Not recovered / ongoing
+25498826,2025-07-01,EU,SERIOUS,Anaphylactic reaction,Recovered / resolved
+25499429,2025-07-01,EU,SERIOUS,Generalised tonic-clonic seizure; Hypomagnesaemia; Supraventricular tachycardia,Recovered / resolved
+25500305,2025-07-01,EU,SERIOUS,Chronic inflammatory response syndrome; Chronic kidney disease; Mononeuropathy; Mouth ulceration; Odynophagia; Off label use; Pain; Pyrexia; Superinfection,Not recovered / ongoing
+25502017,2025-07-02,EU,SERIOUS,Asthenia; Neutropenia; Pyrexia; Rash maculo-papular,Not recovered / ongoing
+25502579,2025-07-02,EU,SERIOUS,Maternal exposure during pregnancy; Poland^s syndrome,Not recovered / ongoing
+25502657,2025-07-02,EU,SERIOUS,Cardiogenic shock,Not recovered / ongoing
+25502688,2025-07-02,EU,SERIOUS,Blood cholesterol increased; Blood triglycerides increased; Drug ineffective; Drug intolerance; Low density lipoprotein increased,Not recovered / ongoing
+25502988,2025-07-02,UNITED KINGDOM,SERIOUS,Blood potassium decreased; Fatigue; Mouth ulceration; Paraesthesia,Not recovered / ongoing
+25503311,2025-07-02,UNITED STATES,NOT SERIOUS,Drug ineffective; Product substitution issue; Therapy change,Unknown
+25508155,2025-07-03,EU,SERIOUS,Superficial vein thrombosis,Recovered / resolved
+25509197,2025-07-03,EU,SERIOUS,Cholestatic liver injury; Hypothyroidism,Recovering / resolving
+25516706,2025-07-04,UNITED KINGDOM,SERIOUS,Gastritis,Not recovered / ongoing
+25517207,2025-07-04,EU,SERIOUS,Abnormal dreams; Chills; Cognitive disorder; Constipation; Depressed mood; Dysphagia; Fall; General physical health deterioration; Hallucination; Memory impairment; Mobility decreased; Musculoskeletal disorder; Nocturia; Parkinsonism; Pneumonia; Pollakiuria; Rapid eye movement sleep behaviour disorder; Sleep apnoea syndrome; visual,Not recovered / ongoing
+25518899,2025-07-04,UNITED KINGDOM,SERIOUS,Abdominal discomfort; Arterial thrombosis; Arthralgia; Balance disorder; Blood iron decreased; Cataract; Fall; Hip fracture; Joint arthroplasty; Joint injury; Pain; Pharyngeal swelling,Not recovered / ongoing
+25520827,2025-07-05,UNITED KINGDOM,SERIOUS,Amnesia; Arthralgia; Asthenia; Dyspepsia; Dyspnoea; Eye pain; Fatigue; Neuropathy peripheral; Pain in extremity; Tinnitus; Weight increased,Not recovered / ongoing
+25520863,2025-07-05,EU,SERIOUS,Bradycardia; Presyncope,Recovered / resolved
+25521160,2025-07-05,EU,SERIOUS,Drug interaction; Gastrointestinal haemorrhage,Recovered / resolved
+25521499,2025-07-06,EU,SERIOUS,Urticaria papular,Recovered / resolved
+25521504,2025-07-06,EU,SERIOUS,Malignant neoplasm progression; Mucosal inflammation,Not recovered / ongoing
+25521507,2025-07-06,EU,SERIOUS,Epilepsy; Product administration error,Recovered / resolved
+25523170,2025-07-07,UNITED KINGDOM,SERIOUS,Urinary retention,Recovered / resolved
+25523210,2025-07-07,EU,SERIOUS,Respiratory failure,Fatal
+25523238,2025-07-07,UNITED KINGDOM,SERIOUS,Vasculitis,Not recovered / ongoing
+25523341,2025-07-07,UNITED KINGDOM,SERIOUS,Toxicity to various agents,Recovered / resolved
+25528355,2025-07-08,EU,SERIOUS,Arteriosclerosis coronary artery; Hypomagnesaemia; Metastases to liver; Polyneuropathy; Therapy partial responder,Unknown
+25528383,2025-07-08,EU,SERIOUS,Ejection fraction decreased,Not recovered / ongoing
+25528810,2025-07-08,EU,SERIOUS,Aphasia; Atrial fibrillation; Disorientation; Dyspnoea; Encephalitis; Hypokalaemia; Immune-mediated lung disease; Malignant neoplasm progression; Mucosal inflammation; Osteolysis; Polyneuropathy,Not recovered / ongoing
+25531830,2025-07-09,EU,SERIOUS,Inappropriate antidiuretic hormone secretion,Recovering / resolving
+25532154,2025-07-09,EU,SERIOUS,Wrong patient,Fatal
+25532201,2025-07-09,UNITED KINGDOM,SERIOUS,Psoriasis,Not recovered / ongoing
+25532382,2025-07-09,EU,SERIOUS,Calciphylaxis; Cutaneous calcification; Erythema; Off label use; Pain of skin; Renal impairment; Sepsis; Skin lesion; Skin necrosis; Skin ulcer; Superinfection bacterial,Recovered / resolved
+25533151,2025-07-09,EU,SERIOUS,Acquired haemophilia,Recovered / resolved
+25533545,2025-07-09,EU,SERIOUS,Autoimmune myositis,Recovered / resolved
+25533807,2025-07-09,UNITED KINGDOM,SERIOUS,Medication error; Peyronie^s disease,Unknown
+25534452,2025-07-09,UNITED KINGDOM,SERIOUS,Anxiety; Atrial fibrillation; Dizziness; Fatigue,Recovering / resolving
+25539035,2025-07-10,EU,SERIOUS,Asthenia; Drug ineffective; Drug interaction; Medication error; Somnolence,Unknown
+25539068,2025-07-10,UNITED KINGDOM,SERIOUS,Mouth swelling,Recovered / resolved
+25539296,2025-07-10,EU,SERIOUS,Hyperbilirubinaemia,Not recovered / ongoing
+25541512,2025-07-11,UNITED KINGDOM,SERIOUS,Abdominal distension; Oedema peripheral; Pain in extremity,Not recovered / ongoing
+25542374,2025-07-11,EU,SERIOUS,Atrioventricular block; Bradycardia,Recovered / resolved
+25542615,2025-07-11,EU,SERIOUS,Blood thyroid stimulating hormone decreased,Recovered with sequelae
+25542675,2025-07-11,UNITED KINGDOM,SERIOUS,Dizziness; Vaginal haemorrhage,Recovered / resolved
+25543687,2025-07-11,EU,SERIOUS,Condition aggravated; Hyperbilirubinaemia,Not recovered / ongoing
+25546158,2025-07-13,UNITED KINGDOM,SERIOUS,Blister; Malignant neoplasm progression; Off label use; Product distribution issue; Product dose omission issue; Syncope; Toxicity to various agents,Recovered / resolved
+25547806,2025-07-14,EU,SERIOUS,Hepatic cytolysis,Not recovered / ongoing
+25548024,2025-07-14,EU,SERIOUS,Atrioventricular block,Recovering / resolving
+25552003,2025-07-14,UNITED KINGDOM,SERIOUS,Malaise; Vomiting,Recovered / resolved
+25552485,2025-07-15,EU,SERIOUS,Drug interaction; High density lipoprotein decreased; Hypercholesterolaemia; Red blood cell abnormality; Stomatocytes present,Recovered / resolved
+25552852,2025-07-15,EU,SERIOUS,Acute generalised exanthematous pustulosis,Recovered / resolved
+25553656,2025-07-15,EU,SERIOUS,Acute myocardial infarction; Akinesia; Arrhythmia; Arteriospasm coronary; Atrial fibrillation; Blood pressure increased; Cardiac arrest; Cardiac failure; Chest pain; Drug ineffective; Left ventricular dysfunction; Myocarditis; Ventricular arrhythmia; Ventricular tachycardia,Recovered / resolved
+25553731,2025-07-15,EU,SERIOUS,Acute kidney injury; Cardiac failure acute; Drug monitoring procedure not performed; Drug reaction with eosinophilia and systemic symptoms; Febrile bone marrow aplasia; Medication error; Septic shock,Recovered / resolved
+25553978,2025-07-15,EU,SERIOUS,Gastrointestinal haemorrhage,Recovered / resolved
+25563974,2025-07-16,EU,SERIOUS,Anaemia; Diarrhoea; Fatigue; Leukopenia; Pancytopenia; Thrombocytosis,Not recovered / ongoing
+25564765,2025-07-16,UNITED KINGDOM,SERIOUS,Sinus bradycardia,Recovered / resolved
+25565161,2025-07-16,EU,SERIOUS,Cerebellar syndrome; Generalised tonic-clonic seizure; Hypokalaemia; Hypomagnesaemia; Sleep disorder; Supraventricular tachycardia; Tetany,Recovered / resolved
+25565299,2025-07-16,EU,SERIOUS,Cytopenia; Drug withdrawal syndrome; Immune reconstitution inflammatory syndrome; Mycobacterial infection; Pancytopenia; Paradoxical drug reaction; Sepsis,Recovering / resolving
+25565564,2025-07-16,EU,SERIOUS,Drug interaction; Malaise; Myalgia,Unknown
+25570132,2025-07-17,UNITED KINGDOM,SERIOUS,Aura,Recovered / resolved
+25570254,2025-07-17,EU,SERIOUS,Dysphonia; Dyspnoea; Macroglossia,Recovered / resolved
+25570823,2025-07-17,UNITED KINGDOM,SERIOUS,Subarachnoid haemorrhage,Recovering / resolving
+25571526,2025-07-17,AUSTRALIA,SERIOUS,Gastrointestinal tract mucosal pigmentation,Unknown
+25571733,2025-07-17,EU,SERIOUS,Abdominal pain; Acute kidney injury; C-reactive protein increased; Diarrhoea,Recovered / resolved
+25571836,2025-07-17,EU,SERIOUS,Hepatotoxicity,Recovered / resolved
+25575675,2025-07-18,UNITED KINGDOM,SERIOUS,Suicidal ideation,Recovered / resolved
+25575856,2025-07-18,EU,SERIOUS,Bradycardia; Syncope; Wrong patient received product,Recovered / resolved
+25576229,2025-07-18,EU,SERIOUS,Oedema peripheral; Oropharyngeal discomfort; Rash pruritic,Recovered / resolved
+25576857,2025-07-18,EU,SERIOUS,Condition aggravated; Diarrhoea; Glomerular filtration rate decreased; Polyneuropathy,Not recovered / ongoing
+25581884,2025-07-19,UNITED KINGDOM,SERIOUS,Alopecia,Not recovered / ongoing
+25581942,2025-07-19,EU,SERIOUS,Death; Toxic epidermal necrolysis,Fatal
+25582038,2025-07-19,EU,SERIOUS,Bradycardia; Syncope,Recovering / resolving
+25582293,2025-07-20,UNITED KINGDOM,SERIOUS,Muscle spasms,Recovered / resolved
+25582496,2025-07-20,EU,SERIOUS,Septic shock; Skin reaction; Stevens-Johnson syndrome; Toxic epidermal necrolysis,Fatal
+25584646,2025-07-21,UNITED KINGDOM,SERIOUS,Drug ineffective,Recovered / resolved
+25585570,2025-07-21,EU,SERIOUS,Cardiac failure; Condition aggravated; Ejection fraction decreased,Recovering / resolving
+25588310,2025-07-22,EU,SERIOUS,Abdominal pain; Acute kidney injury; C-reactive protein increased; Diarrhoea; Intentional product use issue; Off label use,Recovered / resolved
+25588314,2025-07-22,EU,SERIOUS,Bradycardia; Hypotension; Product administration error; Wrong patient received product,Recovered / resolved
+25588869,2025-07-22,EU,SERIOUS,Syncope,Recovered / resolved
+25589993,2025-07-22,EU,SERIOUS,Diarrhoea; Hypoxia; Melaena; Nausea; Pyrexia,Recovered with sequelae
+25595247,2025-07-23,EU,SERIOUS,Raynaud^s phenomenon,Recovering / resolving
+25595339,2025-07-23,EU,SERIOUS,Ischaemic stroke,Not recovered / ongoing
+25595841,2025-07-23,EU,SERIOUS,Atrioventricular block complete; Syncope,Recovered / resolved
+25595958,2025-07-23,EU,SERIOUS,Hepatotoxicity,Recovering / resolving
+25595977,2025-07-23,UNITED KINGDOM,SERIOUS,Atrioventricular block,Recovered / resolved
+25599214,2025-07-24,EU,SERIOUS,Gastric ulcer; Haemorrhage; Labelled drug-drug interaction medication error; Malaise; Melaena,Unknown
+25599366,2025-07-24,EU,SERIOUS,Hepatitis acute; Idiopathic interstitial pneumonia; Type 2 diabetes mellitus; Weight decreased,Recovering / resolving
+25604532,2025-07-25,EU,SERIOUS,Tubulointerstitial nephritis,Recovered / resolved
+25608501,2025-07-26,EU,SERIOUS,Arthralgia; Carpal tunnel syndrome; Condition aggravated; Cyanosis; Dry skin; Erythema; Oedema peripheral; Pain in extremity; Pallor; Paraesthesia; Raynaud^s phenomenon; Skin necrosis; Skin ulcer,Recovering / resolving
+25611114,2025-07-28,EU,SERIOUS,Adverse drug reaction; Syncope,Recovering / resolving
+25611176,2025-07-28,UNITED KINGDOM,SERIOUS,Musculoskeletal stiffness; Nightmare; Peripheral swelling,Recovered / resolved
+25615880,2025-07-29,EU,SERIOUS,Dehydration; Hyponatraemia; Hypotension,Recovering / resolving
+25615980,2025-07-29,UNITED KINGDOM,SERIOUS,Genital ulceration; Mouth ulceration; Rash papular; Stevens-Johnson syndrome; Toxic epidermal necrolysis,Fatal
+25616798,2025-07-29,EU,SERIOUS,Cholestasis; Hepatic cytolysis; Rhabdomyolysis,Recovering / resolving
+25616836,2025-07-29,EU,SERIOUS,Basal cell carcinoma,Not recovered / ongoing
+25616903,2025-07-29,EU,SERIOUS,Abdominal pain; Acute kidney injury; C-reactive protein increased; Diarrhoea; Intentional product use issue; Off label use,Recovered / resolved
+25616932,2025-07-29,EU,SERIOUS,Eyelid oedema,Recovered / resolved
+25620389,2025-07-30,EU,SERIOUS,Cardio-respiratory arrest,Fatal
+25620624,2025-07-30,EU,SERIOUS,Herpes zoster; Melaena; Off label use; Polyp; Rash,Recovered / resolved
+25620719,2025-07-30,EU,SERIOUS,Alcohol interaction; Hypotension; Suicide attempt; Toxicity to various agents,Recovering / resolving
+25621964,2025-07-30,EU,SERIOUS,Agranulocytosis,Recovered / resolved
+25622114,2025-07-30,EU,SERIOUS,Cardiogenic shock,Fatal
+25625581,2025-07-31,UNITED KINGDOM,SERIOUS,Accidental overdose; Device use error; Mobility decreased; Pulmonary embolism; Sedation,Fatal
+25626610,2025-07-31,UNITED KINGDOM,SERIOUS,Drug ineffective,Unknown
+25626868,2025-07-31,EU,SERIOUS,Drug interaction; Glycosuria; Therapeutic product effect increased; Urinary tract infection,Unknown
+25627510,2025-07-31,EU,SERIOUS,Acute myocardial infarction; Product administration error; Wrong patient; Wrong product administered,Fatal
+25631192,2025-08-01,UNITED KINGDOM,SERIOUS,Anxiety; Brain fog; Constipation; Fatigue; Hypersensitivity; Medication error; Muscle atrophy; Muscle spasticity; Muscular weakness; Myoclonus; Neurogenic bladder; Neurogenic bowel; Neuropathy peripheral; Paralysis; Polyneuropathy; Sexual dysfunction; Small fibre neuropathy; Stiff leg syndrome; Taste disorder; Tendonitis; Vertigo,Not recovered / ongoing
+25635934,2025-08-03,EU,SERIOUS,Cough; Hypertriglyceridaemia,Recovered / resolved
+25637229,2025-08-04,UNITED KINGDOM,SERIOUS,Decreased appetite; Hypotension; Nausea,Recovered / resolved
+25638178,2025-08-04,UNITED KINGDOM,SERIOUS,Hyperglycaemia,Recovered / resolved
+25638316,2025-08-04,UNITED KINGDOM,SERIOUS,Muscle rigidity; Vision blurred,Not recovered / ongoing
+25642621,2025-08-05,UNITED KINGDOM,SERIOUS,Arthralgia; Brain fog; Depressed level of consciousness; Fatigue; Memory impairment; Myalgia; Pain in extremity; Tendonitis,Not recovered / ongoing
+25642687,2025-08-05,UNITED KINGDOM,SERIOUS,Balance disorder; Feeling abnormal; Tremor,Recovered / resolved
+25642951,2025-08-05,UNITED KINGDOM,SERIOUS,Diarrhoea,Not recovered / ongoing
+25643008,2025-08-05,EU,SERIOUS,Adverse event; Alopecia; Epistaxis; Pruritus; White blood cell count decreased,Recovered / resolved
+25643903,2025-08-05,EU,SERIOUS,Therapy non-responder,Unknown
+25643954,2025-08-05,EU,SERIOUS,Pancytopenia; Tongue discolouration; Tooth discolouration,Recovering / resolving
+25644154,2025-08-05,UNITED KINGDOM,SERIOUS,Epistaxis; Product prescribing issue,Unknown
+25647220,2025-08-06,EU,SERIOUS,Acute kidney injury; BRASH syndrome; Blood creatinine increased; Blood urea increased; Bradycardia; Condition aggravated; Dyspnoea; Fatigue; Gastrointestinal haemorrhage; Glomerular filtration rate decreased; Haemoglobin decreased; Hyperkalaemia; Hypotension; Melaena; Pallor; Renal failure; Toxicity to various agents,Recovering / resolving
+25647682,2025-08-06,EU,SERIOUS,Acute kidney injury; Altered state of consciousness; Asthenia; Bradycardia; Cardiogenic shock; Depressed level of consciousness; Distributive shock; Drug ineffective; Electrocardiogram QT prolonged; Hepatic function abnormal; Hypotension; Hypoxia; Intentional overdose; Liver injury; Multiple organ dysfunction syndrome; Overdose; Renal impairment; Respiratory failure; Toxicity to various agents,Recovered / resolved
+25649473,2025-08-06,UNITED KINGDOM,SERIOUS,Abnormal weight gain; Blood glucose increased; Dizziness; Dyspnoea; Hypothyroidism,Not recovered / ongoing
+25654415,2025-08-07,EU,SERIOUS,Acute kidney injury; Hyperkalaemia; Hypoglycaemia; Metabolic acidosis,Unknown
+25654484,2025-08-07,EU,SERIOUS,Acute kidney injury; Bradycardia; Fall,Recovered / resolved
+25658366,2025-08-08,UNITED KINGDOM,SERIOUS,Anal fissure,Not recovered / ongoing
+25658721,2025-08-08,UNITED KINGDOM,SERIOUS,Joint swelling,Recovering / resolving
+25658941,2025-08-08,EU,SERIOUS,Lip oedema,Recovering / resolving
+25658980,2025-08-08,EU,SERIOUS,Bradycardia; Hypotension; Psychomotor skills impaired; Toxicity to various agents,Recovered / resolved
+25669701,2025-08-12,EU,SERIOUS,Hyperkalaemia; Renal impairment,Unknown
+25674938,2025-08-13,EU,SERIOUS,Acute kidney injury,Recovered / resolved
+25678941,2025-08-14,EU,SERIOUS,Drug interaction; Transaminases increased,Recovered / resolved
+25679791,2025-08-14,UNITED KINGDOM,SERIOUS,Brain injury; Cardiac arrest; Overdose,Recovered / resolved
+25679800,2025-08-14,EU,SERIOUS,Bradyarrhythmia,Recovered / resolved
+25684646,2025-08-15,UNITED KINGDOM,SERIOUS,Epistaxis,Not recovered / ongoing
+25684730,2025-08-15,EU,SERIOUS,Acute kidney injury; Hyperkalaemia; Metabolic acidosis; Poisoning deliberate,Recovered / resolved
+25686817,2025-08-16,EU,SERIOUS,Asthenia; Atrioventricular block,Recovered / resolved
+25686979,2025-08-16,EU,SERIOUS,Arterial occlusive disease; Arteriosclerosis; Cardiomegaly; Chest pain; Contusion; Erythema; Fatigue; Hypotension; Pain; Peripheral swelling; Tachycardia; Vertigo,Not recovered / ongoing
+25686995,2025-08-16,EU,SERIOUS,Foetal exposure during pregnancy; Hypospadias,Not recovered / ongoing
+25687004,2025-08-16,EU,SERIOUS,Drug ineffective,Unknown
+25687520,2025-08-17,EU,SERIOUS,Drug ineffective,Unknown
+25687522,2025-08-17,EU,SERIOUS,Discomfort; Dizziness; Drug ineffective,Recovering / resolving
+25687523,2025-08-17,UNITED KINGDOM,SERIOUS,Paraesthesia oral; Pharyngeal paraesthesia,Recovered / resolved
+25688713,2025-08-18,EU,SERIOUS,Asphyxia; Drug hypersensitivity; Swollen tongue,Recovered / resolved
+25689422,2025-08-18,EU,SERIOUS,Dermatitis bullous,Recovering / resolving
+25698103,2025-08-19,UNITED KINGDOM,SERIOUS,Hypomagnesaemia,Recovered / resolved
+25698371,2025-08-19,UNITED KINGDOM,SERIOUS,Cough; Hyponatraemia,Recovered with sequelae
+25698586,2025-08-19,EU,SERIOUS,Coagulation factor deficiency; Drug interaction; Gastrointestinal haemorrhage,Recovered / resolved
+25704866,2025-08-20,EU,SERIOUS,Acute kidney injury; Bradycardia; Hyponatraemia; Melaena,Recovering / resolving
+25705220,2025-08-20,UNITED KINGDOM,SERIOUS,Atrioventricular block; Bradycardia,Recovered / resolved
+25709907,2025-08-21,EU,SERIOUS,Acute kidney injury; Chronic kidney disease; Drug ineffective; Gastrointestinal disorder; Hypotension; Weight decreased,Recovered / resolved
+25715605,2025-08-22,EU,SERIOUS,Pancytopenia; Sepsis,Fatal
+25718300,2025-08-23,UNITED KINGDOM,SERIOUS,Dyspnoea; Heart rate irregular,Not recovered / ongoing
+25721209,2025-08-25,EU,SERIOUS,Hypotension,Recovered / resolved
+25721285,2025-08-25,EU,SERIOUS,Drug ineffective,Unknown
+25722723,2025-08-25,EU,SERIOUS,Cheilitis; Conjunctivitis; Eye infection gonococcal; Rash; Rash macular; Skin exfoliation; Toxic skin eruption; Urethritis,Recovering / resolving
+25724308,2025-08-26,EU,SERIOUS,Condition aggravated; Drug ineffective; Insomnia; Myelitis; Tremor,Recovering / resolving
+25724320,2025-08-26,EU,SERIOUS,Anticholinergic effect; Confusional state; Daydreaming; Disturbance in attention; Dizziness; Drug ineffective; Drug interaction; Fall; Haematoma; Medication error; Patient elopement,Recovered / resolved
+25724984,2025-08-26,EU,SERIOUS,Discomfort; Dizziness; Drug ineffective,Recovering / resolving
+25725402,2025-08-26,UNITED KINGDOM,SERIOUS,Hiccups,Not recovered / ongoing
+25733394,2025-08-28,UNITED KINGDOM,SERIOUS,Bradycardia; Confusional state; Hallucination; Lethargy,Recovering / resolving
+25733972,2025-08-28,EU,SERIOUS,Haematoma,Not recovered / ongoing
+25734619,2025-08-28,UNITED KINGDOM,SERIOUS,Balance disorder; Cough; Diarrhoea; Dyspnoea; Fatigue; Headache; Hyperhidrosis,Recovering / resolving
+25734623,2025-08-28,UNITED KINGDOM,SERIOUS,Dyspnoea,Recovered / resolved
+25734654,2025-08-28,EU,SERIOUS,Acute kidney injury; Cardiovascular disorder; Dyspnoea; Hyperkalaemia; Hypotension,Recovering / resolving
+25734921,2025-08-28,EU,SERIOUS,Dyskinesia; Hepatic cytolysis,Recovering / resolving
+25735161,2025-08-28,EU,SERIOUS,Abdominal pain upper; Apathy; Decreased appetite; Depressed mood; Dizziness; Dry mouth; Gastrooesophageal reflux disease; Headache; Hiatus hernia; Hyperhidrosis; Injection site erythema,Not recovered / ongoing
+25738427,2025-08-29,EU,SERIOUS,Agranulocytosis,Recovered / resolved
+25738433,2025-08-29,EU,SERIOUS,Condition aggravated; Hypoprothrombinaemia,Recovered / resolved
+25739941,2025-08-29,EU,SERIOUS,Drug ineffective; Mitral valve incompetence; Myocarditis; Pericardial effusion; Pericarditis; Weight increased,Recovering / resolving
+25740041,2025-08-29,EU,SERIOUS,Encephalitis; Progressive multifocal leukoencephalopathy,Fatal
+25740087,2025-08-29,UNITED KINGDOM,SERIOUS,Joint swelling; Peripheral swelling,Recovered / resolved
+25744485,2025-09-01,UNITED KINGDOM,SERIOUS,Lip swelling,Recovered / resolved
+25744500,2025-09-01,UNITED KINGDOM,SERIOUS,Acute generalised exanthematous pustulosis,Recovered / resolved
+25745093,2025-09-01,EU,SERIOUS,Spontaneous haematoma,Recovering / resolving
+25745094,2025-09-01,UNITED KINGDOM,SERIOUS,Atrioventricular block first degree,Unknown
+25745112,2025-09-01,EU,SERIOUS,Epidural lipomatosis,Not recovered / ongoing
+25745734,2025-09-01,UNITED KINGDOM,SERIOUS,Hypomagnesaemia,Recovered / resolved
+25745939,2025-09-01,EU,SERIOUS,Autonomic nervous system imbalance; Blood pressure decreased; Deafness; Heart rate abnormal; Palpitations; Tinnitus,Not recovered / ongoing
+25745996,2025-09-01,EU,SERIOUS,Fall,Fatal
+25749000,2025-09-02,EU,SERIOUS,Anticholinergic effect; Confusional state; Daydreaming; Disturbance in attention; Dizziness; Drug ineffective; Drug interaction; Fall; Haematoma; Medication error; Patient elopement,Recovered / resolved
+25749459,2025-09-02,EU,SERIOUS,Febrile neutropenia; Intestinal perforation; Pancytopenia; Pneumonitis,Fatal
+25749606,2025-09-02,EU,SERIOUS,Angina unstable; Apnoea; Arteritis; Arthralgia; Arthrodesis; Articular disc disorder; Back pain; Breath sounds abnormal; Chest pain; Emphysema; Fatigue; Hyporeflexia; Ill-defined disorder; Loss of personal independence in daily activities; Neck pain; Obstructive sleep apnoea syndrome; Respiratory disorder; Spinal pain,Unknown
+25750061,2025-09-02,EU,SERIOUS,Arteriospasm coronary,Recovered / resolved
+25750372,2025-09-02,UNITED KINGDOM,SERIOUS,Burning sensation; Confusional state; Hyperhidrosis; Joint swelling; Myalgia,Recovered / resolved
+25753756,2025-09-03,EU,SERIOUS,Acute kidney injury; Hyperkalaemia; Multiple drug therapy; Renal impairment,Recovering / resolving
+25754449,2025-09-03,UNITED KINGDOM,SERIOUS,Hepatic function abnormal,Recovering / resolving
+25754453,2025-09-03,UNITED KINGDOM,SERIOUS,Interstitial lung disease,Unknown
+25754545,2025-09-03,EU,SERIOUS,Distributive shock; Haemorrhage,Recovering / resolving
+25773137,2025-09-08,CANADA,SERIOUS,Drug interaction; Myocarditis; Tachycardia,Recovered / resolved
+25776917,2025-09-09,EU,SERIOUS,Dilated cardiomyopathy,Unknown
+25784665,2025-09-10,CANADA,SERIOUS,Acute kidney injury; Haemofiltration; Tubulointerstitial nephritis,Recovered / resolved
+25784897,2025-09-10,CANADA,SERIOUS,COVID-19; Circumstance or information capable of leading to medication error; Cough; Fatigue; Off label use; Pharyngeal paraesthesia; Pneumonia; Pyrexia; Throat irritation,Recovered / resolved
+25785032,2025-09-10,CANADA,SERIOUS,Pruritus; Skin exfoliation; Skin reaction,Recovered / resolved
+25785041,2025-09-10,EU,SERIOUS,Cholestatic liver injury; Eosinophilia,Recovered / resolved
+25785294,2025-09-10,EU,SERIOUS,Plasma cell myeloma,Unknown
+25785418,2025-09-10,EU,SERIOUS,Epidural lipomatosis,Not recovered / ongoing
+25789067,2025-09-11,CANADA,SERIOUS,Arthralgia; Arthritis; Food allergy,Unknown
+25789513,2025-09-11,CANADA,SERIOUS,COVID-19; Circumstance or information capable of leading to medication error; Cough; Fatigue; Off label use; Pharyngeal paraesthesia; Pneumonia; Pyrexia; Throat irritation,Recovered / resolved
+25789916,2025-09-11,EU,SERIOUS,Acute kidney injury,Recovered / resolved
+25789952,2025-09-11,EU,SERIOUS,Drug ineffective; Dyspnoea,Recovered / resolved
+25790552,2025-09-11,CANADA,SERIOUS,Dermatitis atopic; Drug eruption,Recovering / resolving
+25798718,2025-09-13,EU,SERIOUS,Bradycardia; Condition aggravated; Conduction disorder,Recovered / resolved
+25798751,2025-09-13,EU,SERIOUS,Acute respiratory distress syndrome; Pneumocystis jirovecii pneumonia,Fatal
+25798821,2025-09-13,EU,SERIOUS,Condition aggravated; Hypothyroidism,Recovering / resolving
+25799020,2025-09-13,UNITED KINGDOM,SERIOUS,Anxiety; Self-injurious ideation,Recovering / resolving
+25799135,2025-09-13,EU,SERIOUS,Anaemia; Atrioventricular block complete; Drug ineffective; Dyspnoea; Hypotension; Off label use,Unknown
+25799610,2025-09-14,EU,SERIOUS,Drug interaction; Fall; Malaise; Orthostatic hypotension,Not recovered / ongoing
+25799644,2025-09-14,UNITED KINGDOM,SERIOUS,Gout,Unknown
+25801607,2025-09-15,EU,SERIOUS,Pelvic pain; Vomiting,Unknown
+25801745,2025-09-15,CANADA,SERIOUS,Metabolic acidosis; Seizure,Recovering / resolving
+25801815,2025-09-15,UNITED KINGDOM,SERIOUS,Gingival hypertrophy; Gingival hypoplasia,Unknown
+25802218,2025-09-15,UNITED KINGDOM,SERIOUS,Hypokalaemia,Unknown
+25805062,2025-09-16,EU,SERIOUS,Drug intolerance; Hypotension; Renal impairment,Recovering / resolving
+25805267,2025-09-16,UNITED KINGDOM,SERIOUS,Pneumonitis,Fatal
+25805853,2025-09-16,EU,SERIOUS,Fall; Hospitalisation; Tooth loss,Unknown
+25807053,2025-09-16,EU,SERIOUS,Hypotension; Malaise; Potentiating drug interaction,Not recovered / ongoing
+25815498,2025-09-18,EU,SERIOUS,Coma scale abnormal; Confusional state; Death; Hypokalaemia,Fatal
+25815504,2025-09-18,UNITED KINGDOM,SERIOUS,Confusional state; Dry mouth; Dysarthria; Somnolence,Not recovered / ongoing
+25816331,2025-09-18,UNITED KINGDOM,SERIOUS,Confusional state,Not recovered / ongoing
+25816737,2025-09-18,UNITED KINGDOM,SERIOUS,Glossitis; Mouth ulceration; Oral lichenoid reaction,Recovered / resolved
+25817340,2025-09-18,EU,SERIOUS,Acute kidney injury; Neurogenic bladder; Off label use; Pneumonia; Tooth disorder,Unknown
+25817510,2025-09-18,EU,SERIOUS,Anaemia; Dyspnoea,Fatal
+25817526,2025-09-18,EU,SERIOUS,Chronic inflammatory demyelinating polyradiculoneuropathy; Delirium; Drug ineffective; Encephalopathy; Epilepsy; Fall; Hypercapnia; Infection; Malaise; Neurological decompensation; Pneumonia aspiration; Respiratory failure; Somnolence,Fatal
+25818402,2025-09-18,EU,SERIOUS,Dizziness; Hyponatraemia,Recovered / resolved
+25818451,2025-09-18,EU,SERIOUS,Angina pectoris,Recovered / resolved
+25820563,2025-09-19,EU,SERIOUS,Hypertension; Product size issue,Unknown
+25821892,2025-09-19,CANADA,SERIOUS,Blood loss anaemia neonatal,Recovered / resolved
+25826878,2025-09-20,UNITED KINGDOM,SERIOUS,Pneumonia; Pneumonitis; Respiratory failure,Fatal
+25829019,2025-09-22,EU,SERIOUS,Hypotension; Wrong drug; Wrong patient received product,Recovered / resolved
+25829287,2025-09-22,UNITED KINGDOM,SERIOUS,Neurological symptom,Recovered / resolved
+25829610,2025-09-22,CANADA,SERIOUS,Contusion; Dyspnoea exertional; Presyncope; Swelling; Tenderness,Recovering / resolving
+25829806,2025-09-22,CANADA,SERIOUS,Haematuria; Thrombosis,Recovered / resolved
+25829975,2025-09-22,EU,SERIOUS,Lip erosion; Oral mucosa erosion; Rash,Recovering / resolving
+25830841,2025-09-22,UNITED KINGDOM,SERIOUS,Arthralgia; Nightmare,Not recovered / ongoing
+25831123,2025-09-22,EU,SERIOUS,Cerebral haematoma,Recovered with sequelae
+25835995,2025-09-23,EU,SERIOUS,Chest pain; Dry mouth; Hyponatraemia; Inappropriate antidiuretic hormone secretion; Paraneoplastic syndrome; Pulmonary mass,Not recovered / ongoing
+25839297,2025-09-24,INDONESIA,SERIOUS,Drug ineffective,Unknown
+25839565,2025-09-24,UNITED KINGDOM,SERIOUS,Gastrointestinal haemorrhage; Oesophageal intramural haematoma; Upper gastrointestinal haemorrhage,Recovered / resolved
+25847005,2025-09-25,CANADA,SERIOUS,Coma scale abnormal; Cyanosis; Endotracheal intubation; Postictal state; Seizure,Recovering / resolving
+25852510,2025-09-26,EU,SERIOUS,Hepatitis acute,Recovered / resolved
+25857209,2025-09-29,UNITED KINGDOM,SERIOUS,Angina pectoris; Chest pain; Dyspnoea; Paraesthesia,Not recovered / ongoing
+25857694,2025-09-29,CANADA,SERIOUS,Pericardial effusion; Pulmonary embolism,Fatal
+25857706,2025-09-29,EU,SERIOUS,Bradycardia; Cardiogenic shock; Hyperkalaemia,Recovered / resolved
+25858087,2025-09-29,EU,SERIOUS,Acute kidney injury; Diarrhoea; Distributive shock,Recovering / resolving
+25858101,2025-09-29,EU,SERIOUS,Carotid artery occlusion; Drug ineffective; Myocardial ischaemia,Recovering / resolving
+25862410,2025-09-30,CANADA,SERIOUS,Aortic arteriosclerosis; Hepatic cancer stage IV; Hepatic cirrhosis; Hepatic steatosis; Malignant neoplasm progression; Metastases to spine; Portal hypertension,Unknown
+25862611,2025-09-30,EU,SERIOUS,Colitis microscopic,Not recovered / ongoing
+25867406,2025-10-01,UNITED KINGDOM,SERIOUS,Pruritus; Rash,Recovered / resolved
+25868162,2025-10-01,UNITED KINGDOM,SERIOUS,Acute kidney injury,Recovered / resolved
+25872465,2025-10-02,CANADA,SERIOUS,Accident; Aphonia; Arthralgia; Body temperature decreased; Cough; Drug hypersensitivity; Ear infection; Hypoventilation; Limb discomfort; Middle ear effusion; Nasopharyngitis; Off label use; Pneumonia; Product use issue; Productive cough; Rash; Road traffic accident; Sinusitis; Tendonitis; Tissue injury; Weight decreased; Wheezing; Wrong technique in product usage process,Recovered / resolved
+25872501,2025-10-02,EU,SERIOUS,Accidental overdose; Toxic encephalopathy,Recovered / resolved
+25872586,2025-10-02,EU,SERIOUS,Pancreatitis necrotising,Recovering / resolving
+25872668,2025-10-02,EU,SERIOUS,Conjunctival irritation,Recovered / resolved
+25875603,2025-10-03,EU,SERIOUS,Product administration error; Product communication issue; Thrombosis mesenteric vessel,Recovered / resolved
+25877069,2025-10-03,EU,SERIOUS,Hypotension; Ulcer haemorrhage,Recovering / resolving
+25880211,2025-10-04,UNITED KINGDOM,SERIOUS,Anger; Apathy; Behaviour disorder; Impatience; Irritability; Social avoidant behaviour; Tearfulness,Recovered / resolved
+25880636,2025-10-04,UNITED KINGDOM,SERIOUS,Migraine with aura,Not recovered / ongoing
+25883655,2025-10-06,EU,SERIOUS,Foetal growth restriction; Maternal exposure during pregnancy; Premature baby,Recovered / resolved
+25883849,2025-10-06,UNITED KINGDOM,SERIOUS,Diarrhoea haemorrhagic,Not recovered / ongoing
+25883946,2025-10-06,EU,SERIOUS,Hepatitis cholestatic; Hyperbilirubinaemia,Recovered / resolved
+25884142,2025-10-06,EU,SERIOUS,Bradycardia; Hypotension; Presyncope,Unknown
+25884306,2025-10-06,UNITED KINGDOM,SERIOUS,Haematuria,Unknown
+25884439,2025-10-06,EU,SERIOUS,Alopecia; Atrial fibrillation; Constipation; Oral candidiasis; Vomiting; White blood cell count decreased,Not recovered / ongoing
+25884461,2025-10-06,EU,SERIOUS,Euglycaemic diabetic ketoacidosis,Recovered / resolved
+25888115,2025-10-07,UNITED KINGDOM,SERIOUS,Aggression,Recovered / resolved
+25888753,2025-10-07,EU,SERIOUS,Pancytopenia,Recovered / resolved
+25888756,2025-10-07,EU,SERIOUS,Lung disorder; Rhabdomyolysis,Recovered / resolved
+25889670,2025-10-07,UNITED KINGDOM,SERIOUS,Medication error; Toxicity to various agents,Recovering / resolving
+25889823,2025-10-07,EU,SERIOUS,Treatment failure,Unknown
+25889979,2025-10-07,EU,SERIOUS,Arrhythmia; Asthenia; Chest pain; Electrocardiogram QT prolonged; Long QT syndrome; Malaise; Palpitations; Presyncope; Syncope,Recovering / resolving
+25890142,2025-10-07,UNITED KINGDOM,SERIOUS,Epistaxis; Medication error; Rectal haemorrhage; Renal haemorrhage,Recovering / resolving
+25893210,2025-10-08,EU,SERIOUS,Atrioventricular block,Unknown
+25893794,2025-10-08,UNITED KINGDOM,SERIOUS,Atrial fibrillation; Medication error; Nausea; Pain,Not recovered / ongoing
+25895271,2025-10-08,EU,SERIOUS,Pneumonitis,Recovered / resolved
+25895575,2025-10-08,EU,SERIOUS,Electrocardiogram QT prolonged; Hypocalcaemia; Hypomagnesaemia; Hypoparathyroidism; Vertigo; Vomiting,Recovered / resolved
+25899124,2025-10-09,EU,SERIOUS,Therapeutic product effect incomplete,Unknown
+25899198,2025-10-09,EU,SERIOUS,Aggression; Anxiety; Cognitive disorder; Constipation; Disorientation; Dopamine supersensitivity psychosis; Executive dysfunction; Hallucination; Infusion site infection; Intestinal obstruction; Mental disorder; Neurogenic bowel; On and off phenomenon; Paradoxical drug reaction; Parkinsonism; Restlessness; Tremor,Recovered / resolved
+25899203,2025-10-09,EU,SERIOUS,Drug interaction; Hepatic cytolysis; Rhabdomyolysis,Recovering / resolving
+25900475,2025-10-09,UNITED KINGDOM,SERIOUS,Depressed mood; Mood altered,Recovered / resolved
+25903938,2025-10-10,UNITED KINGDOM,SERIOUS,Abdominal pain; Blood glucose decreased; Dizziness; Dyspepsia,Not recovered / ongoing
+25904938,2025-10-10,EU,SERIOUS,Febrile bone marrow aplasia,Fatal
+25905431,2025-10-10,EU,SERIOUS,Atrioventricular block second degree; Bradycardia; Toxicity to various agents,Recovered / resolved
+25905773,2025-10-10,EU,SERIOUS,Acute kidney injury; Hypovolaemic shock,Fatal
+25905855,2025-10-10,EU,SERIOUS,Cerebellar haemorrhage,Fatal
+25912915,2025-10-13,UNITED KINGDOM,SERIOUS,Plantar fasciitis,Recovered / resolved
+25913053,2025-10-13,EU,SERIOUS,Dyspnoea,Unknown
+25916674,2025-10-14,UNITED KINGDOM,SERIOUS,Gastrooesophageal reflux disease,Not recovered / ongoing
+25917511,2025-10-14,UNITED KINGDOM,SERIOUS,Antiphospholipid syndrome; Immune thrombocytopenia; Immune-mediated encephalitis,Fatal
+25917764,2025-10-14,EU,SERIOUS,Anaemia; Drug interaction,Recovered / resolved
+25918547,2025-10-14,EU,SERIOUS,Cutaneous vasculitis,Recovering / resolving
+25918660,2025-10-14,EU,SERIOUS,Cholestasis,Recovering / resolving
+25922795,2025-10-15,EU,SERIOUS,Neuropathy peripheral,Not recovered / ongoing
+25922962,2025-10-15,EU,SERIOUS,Cholestasis,Recovering / resolving
+25923080,2025-10-15,EU,SERIOUS,Acute kidney injury; Diabetes mellitus inadequate control; Dizziness; Vitamin B12 deficiency,Recovered / resolved
+25923212,2025-10-15,EU,SERIOUS,Drug abuse; Presyncope,Unknown
+25923213,2025-10-15,EU,SERIOUS,Hyponatraemia,Recovering / resolving
+25923395,2025-10-15,EU,SERIOUS,Acute kidney injury; Hypokalaemia,Recovering / resolving
+25924279,2025-10-15,EU,SERIOUS,Renal failure,Recovering / resolving
+25927859,2025-10-16,EU,SERIOUS,Generalised tonic-clonic seizure; Myoclonic epilepsy; Toxic encephalopathy,Recovered / resolved
+25929827,2025-10-16,UNITED KINGDOM,SERIOUS,Haematemesis; Haematochezia; Medication error,Recovering / resolving
+25933055,2025-10-17,EU,SERIOUS,Disease progression; Hyponatraemia,Fatal
+25933899,2025-10-17,UNITED KINGDOM,SERIOUS,Nightmare,Not recovered / ongoing
+25934171,2025-10-17,EU,SERIOUS,Subdural haematoma,Recovered / resolved
+25934202,2025-10-17,UNITED KINGDOM,SERIOUS,Suicidal ideation,Recovered / resolved
+25934251,2025-10-17,EU,SERIOUS,Pancreatitis chronic,Recovered / resolved
+25934532,2025-10-17,UNITED KINGDOM,SERIOUS,Atrioventricular block complete,Unknown
+25937530,2025-10-18,EU,SERIOUS,Alanine aminotransferase increased; Aspartate aminotransferase increased; Blood alkaline phosphatase increased; Gamma-glutamyltransferase increased; Hepatic enzyme increased; Liver function test increased,Recovered / resolved
+25937620,2025-10-18,UNITED KINGDOM,SERIOUS,Cognitive disorder; Tremor,Recovered / resolved
+25937648,2025-10-18,EU,SERIOUS,Acute coronary syndrome; Acute myocardial infarction; Angioplasty; Arterial occlusive disease; Arthralgia; Asthenia; Back pain; Blood creatine phosphokinase increased; Cardiac arrest; Chest pain; Claustrophobia; Depression; Drug intolerance; Dysphagia; Dyspnoea exertional; Electrocardiogram ST segment abnormal; Fatigue; Hyperuricaemia; Hypoaesthesia; Myalgia; Myopathy; Myositis; Pain; Paraesthesia; Pruritus; Psoriasis; Psoriatic arthropathy; Pustular psoriasis; Rhabdomyolysis; Rheumatic disorder; Skin lesion; Stenosis,Not recovered / ongoing
+25937867,2025-10-18,EU,SERIOUS,Anaemia; Clostridium difficile colitis; Clostridium difficile infection; Condition aggravated; Drug ineffective; Dyspnoea; General physical health deterioration; Hypervolaemia; Inflammatory marker increased; Laboratory test abnormal; Nephrotic syndrome; Oedema; Oedema peripheral; Pain; Pleural effusion; Respiratory failure; Serratia infection; Swelling; Treatment failure,Recovering / resolving
+25942521,2025-10-21,EU,SERIOUS,International normalised ratio increased; Toxicity to various agents,Unknown
+25943997,2025-10-21,UNITED KINGDOM,SERIOUS,Brain fog; Morose,Not recovered / ongoing
+25944056,2025-10-21,UNITED KINGDOM,SERIOUS,Swollen tongue,Recovering / resolving
+25946799,2025-10-22,UNITED STATES,SERIOUS,Device programming error; Fall; Hypokalaemia; Rhabdomyolysis,Recovering / resolving
+25952436,2025-10-23,EU,SERIOUS,Pancreatitis acute,Recovered / resolved
+25954580,2025-10-24,EU,SERIOUS,Condition aggravated; Nightmare,Not recovered / ongoing
+25955018,2025-10-24,CANADA,SERIOUS,Aortic dilatation; Bronchitis; Cardiac septal hypertrophy; Dilatation atrial; Hyperhidrosis; Mitral valve incompetence,Unknown
+25955228,2025-10-24,UNITED KINGDOM,SERIOUS,Abdominal discomfort,Unknown
+25955235,2025-10-24,CANADA,SERIOUS,Dizziness; Haematochezia,Not recovered / ongoing
+25955465,2025-10-24,UNITED KINGDOM,SERIOUS,Swollen tongue,Recovered / resolved
+25955466,2025-10-24,EU,SERIOUS,Accidental exposure to product; Accidental exposure to product by child; Accidental overdose; Blood creatinine decreased; Blood lactate dehydrogenase increased; Blood phosphorus decreased; Bone metabolism disorder; Cardiotoxicity; Myocardial injury; Overdose,Recovered / resolved
+25955530,2025-10-24,EU,SERIOUS,Haematuria,Unknown
+25955552,2025-10-24,UNITED KINGDOM,SERIOUS,Aphasia; Balance disorder; Muscular weakness,Recovered / resolved
+25956016,2025-10-24,UNITED KINGDOM,SERIOUS,Pyrexia; Sepsis; Thrombocytopenia,Not recovered / ongoing
+25956595,2025-10-24,UNITED KINGDOM,SERIOUS,Wheezing,Recovering / resolving
+25960740,2025-10-27,EU,SERIOUS,Foetal growth restriction; Maternal exposure during pregnancy; Premature baby; Trisomy 21,Not recovered / ongoing
+25960741,2025-10-27,EU,SERIOUS,Acute respiratory distress syndrome,Recovered / resolved
+25966305,2025-10-28,EU,SERIOUS,Asthma; Dyspnoea exertional; Infection; Infective exacerbation of asthma,Recovered / resolved
+25966344,2025-10-28,EU,SERIOUS,Device related thrombosis; Dyspepsia; Rash,Recovered / resolved
+25967352,2025-10-28,CANADA,SERIOUS,Asthenia; Blood pressure increased; Dysarthria; Expired product administered; Feeding disorder; Head and neck cancer metastatic; Heart rate increased; Hypersomnia; Neoplasm malignant; Respiratory rate increased; Tooth extraction,Fatal
+25967612,2025-10-28,CANADA,SERIOUS,Abdominal tenderness; Crohn^s disease; Dizziness; Frequent bowel movements,Recovered / resolved
+25968033,2025-10-28,EU,SERIOUS,Syncope,Recovered / resolved
+25968069,2025-10-28,EU,SERIOUS,Aphonia; Balance disorder; Decreased appetite; Dyspnoea; Fatigue; Ketoacidosis; Thirst,Recovered / resolved
+25968179,2025-10-28,EU,SERIOUS,Colitis microscopic,Recovered / resolved
+25968362,2025-10-28,EU,SERIOUS,Fall; Subdural haematoma,Fatal
+25968486,2025-10-28,EU,SERIOUS,Acute kidney injury; Drug interaction,Fatal
+25968545,2025-10-28,CANADA,SERIOUS,Eosinophil count increased; Immunoglobulins increased; Petechiae; Rash maculo-papular,Recovered / resolved
+25969138,2025-10-28,UNITED KINGDOM,SERIOUS,Malaise,Recovering / resolving
+25972607,2025-10-29,EU,SERIOUS,Interstitial lung disease; Respiratory failure,Fatal
+25973353,2025-10-29,EU,SERIOUS,Acute kidney injury; Renal tubular necrosis,Recovered / resolved
+25973398,2025-10-29,EU,SERIOUS,Anaphylactic shock; Shock,Recovered / resolved
+25974465,2025-10-29,EU,SERIOUS,Acute kidney injury; Blood creatinine increased; Clostridium difficile colitis; Disorientation; Dyspnoea; Enterococcal sepsis; Escherichia urinary tract infection; Hyperlactacidaemia; Hypoglycaemia; Lethargy; Metabolic acidosis; Mitochondrial toxicity; Nephritis; Toxicity to various agents; Tubulointerstitial nephritis,Recovered / resolved
+25978327,2025-10-30,EU,SERIOUS,Hypotension; Renal failure,Fatal
+25978488,2025-10-30,EU,SERIOUS,Dysphagia; Dyspnoea; Erythema; Pruritus,Recovered / resolved
+25979265,2025-10-30,EU,SERIOUS,Accidental overdose; Bone metabolism disorder; Heart rate decreased; Myocardial injury,Recovered / resolved
+25979408,2025-10-30,EU,SERIOUS,Hyperhidrosis; Loss of consciousness; Malaise; Urge incontinence,Recovered / resolved
+25979414,2025-10-30,EU,SERIOUS,Acute myocardial infarction; Atrioventricular block complete; Breast cancer; Cardiogenic shock; Death; Malignant neoplasm progression,Fatal
+25982005,2025-10-31,EU,SERIOUS,Bronchopulmonary aspergillosis; Interstitial lung disease; Pneumonia,Not recovered / ongoing
+25982363,2025-10-31,EU,SERIOUS,Subacute cutaneous lupus erythematosus,Not recovered / ongoing
+25985644,2025-11-01,CANADA,SERIOUS,Anaphylactic reaction; Cataract; Colitis ulcerative; Drug ineffective; Intervertebral disc protrusion; Multiple allergies; Off label use,Recovering / resolving
+25985696,2025-11-01,UNITED KINGDOM,SERIOUS,Tachycardia,Unknown
+25986361,2025-11-01,UNITED KINGDOM,SERIOUS,Kidney infection; Lactic acidosis,Unknown
+25986750,2025-11-01,UA,SERIOUS,Off label use,Unknown
+25988676,2025-11-03,EU,SERIOUS,Dermatitis acneiform; Neutropenia,Recovered / resolved
+25988690,2025-11-03,UNITED KINGDOM,SERIOUS,Fournier^s gangrene,Recovered / resolved
+25994857,2025-11-04,CANADA,SERIOUS,Activated partial thromboplastin time prolonged; Drug interaction; Treatment delayed,Unknown
+25994875,2025-11-04,CANADA,SERIOUS,Abdominal discomfort; Accidental overdose; Adverse drug reaction; Alcohol poisoning; Arthritis; Bronchiectasis; Burns second degree; COVID-19; Cardiac murmur; Catarrh; Cerebrovascular accident; Colitis ulcerative; Condition aggravated; Confusional state; Deep vein thrombosis; Depression; Drug ineffective; Dysgeusia; Eczema; Fatigue; Frequent bowel movements; Gingival pain; Haematochezia; Headache; Hypopnoea; Impaired quality of life; Impaired work ability; Inappropriate schedule of product administration; Intentional product use issue; Loss of personal independence in daily activities; Medication error; Migraine; Nightmare; Off label use; Pain; Pain in extremity; Palpitations; Parosmia; Product use in unapproved indication; Pulmonary embolism; Pyrexia; Rash; Rectal haemorrhage; Rhinitis; Somnolence; Steroid dependence; Stress; Swollen tongue; Systemic lupus erythematosus; Tinnitus; Tubulointerstitial nephritis; Vertigo; Weight decreased,Not recovered / ongoing
+25995167,2025-11-04,CANADA,SERIOUS,Blood electrolytes increased; Blood potassium increased; Cardiovascular function test abnormal; Cerebrovascular accident; Drug effect less than expected; Fatigue,Unknown
+25995338,2025-11-04,UNITED KINGDOM,SERIOUS,Muscle rupture,Not recovered / ongoing
+25995402,2025-11-04,CANADA,SERIOUS,Blood pressure diastolic decreased; Blood pressure fluctuation; Blood pressure systolic decreased; Constipation; Dizziness; Dyspepsia; Dyspnoea; Feeling abnormal; Food refusal; Haemorrhage; Heart rate decreased; Hypotension; Illness; Joint swelling; Limb injury; Malaise; Nausea; Oxygen saturation abnormal; Peripheral swelling; Pollakiuria; Productive cough; Vomiting; Weight decreased,Not recovered / ongoing
+25997993,2025-11-05,EU,SERIOUS,Chronic kidney disease,Recovered with sequelae
+25998241,2025-11-05,CANADA,SERIOUS,Angiodysplasia; Gastrointestinal haemorrhage,Fatal
+25998516,2025-11-05,CANADA,SERIOUS,Gastric haemorrhage; Upper gastrointestinal haemorrhage,Fatal
+25999126,2025-11-05,CANADA,SERIOUS,Eczema; Haemorrhage; Nephrolithiasis; Off label use; Psoriasis; Weight increased,Unknown
+25999164,2025-11-05,EU,SERIOUS,Hypothyroidism,Recovering / resolving
+25999218,2025-11-05,CANADA,SERIOUS,Anxiety; Arthritis; Circadian rhythm sleep disorder; Drug hypersensitivity; Dry throat; Fatigue; Feeling cold; Flushing; Headache; Inappropriate schedule of product administration; Joint swelling; Off label use; Product use issue; Pruritus; Somnolence; Symptom recurrence; Therapeutic response delayed; Urticaria; Wrong technique in product usage process,Recovered / resolved
+25999687,2025-11-05,CANADA,SERIOUS,Acute kidney injury; Clostridium difficile colitis; Hypokalaemia,Recovered / resolved
+25999849,2025-11-05,CANADA,SERIOUS,Clostridium difficile colitis; Sepsis,Recovering / resolving
+25999864,2025-11-05,CANADA,SERIOUS,Clostridium difficile colitis; Sepsis,Recovered / resolved
+26002837,2025-11-06,CANADA,SERIOUS,Clostridium difficile infection; Clostridium test positive,Unknown
+26003429,2025-11-06,UNITED KINGDOM,SERIOUS,Medication error; Pain,Recovering / resolving
+26003435,2025-11-06,EU,SERIOUS,Pneumonia aspiration,Recovering / resolving
+26006197,2025-11-06,CANADA,SERIOUS,Abdominal pain; Adverse event; Alanine aminotransferase increased; Alopecia; Arthralgia; Arthritis; Arthropathy; Aspartate aminotransferase increased; Basal cell carcinoma; Blood parathyroid hormone decreased; Breath sounds abnormal; C-reactive protein increased; Condition aggravated; Contraindicated product administered; Deafness; Drug eruption; Drug hypersensitivity; Drug ineffective; Drug intolerance; Drug tolerance decreased; Erythema; Fatigue; Granuloma skin; Headache; Hepatic enzyme increased; Hepatitis; Hypercalcaemia; Hypersensitivity; Hypertension; Inflammation; Infusion related reaction; Insomnia; Joint swelling; Loss of personal independence in daily activities; Musculoskeletal stiffness; Nausea; Off label use; Pain; Panniculitis; Peripheral swelling; Pneumonia; Prescribed underdose; Product use in unapproved indication; Product use issue; Pruritus; Pulmonary fibrosis; Rash; Rash pruritic; Red blood cell sedimentation rate increased; Rheumatoid arthritis; Rheumatoid nodule; Skin necrosis; Skin ulcer; Synovitis; Therapeutic product effect decreased; Therapeutic product effect incomplete; Therapeutic response decreased; Treatment failure; Ulcer; Vomiting,Not recovered / ongoing
+26006245,2025-11-06,EU,SERIOUS,Accidental poisoning; Bradycardia; Hyperkalaemia; Hypotension; Loss of consciousness; Malaise; Somnolence; Wrong patient,Recovered / resolved
+26013967,2025-11-08,EU,SERIOUS,Pancreatitis acute,Recovering / resolving
+26013968,2025-11-08,EU,SERIOUS,Arrhythmia; Bradycardia,Recovering / resolving
+26016360,2025-11-10,CANADA,SERIOUS,Blood pressure inadequately controlled; Concomitant disease aggravated; Headache; Migraine; Product substitution issue,Recovered / resolved
+26017794,2025-11-10,EU,SERIOUS,International normalised ratio increased,Recovering / resolving
+26019451,2025-11-10,EU,SERIOUS,Abortion spontaneous; Maternal exposure during pregnancy,Recovered / resolved
+26024642,2025-11-11,EU,SERIOUS,Cardiac dysfunction; Drug ineffective; Hyperthyroidism; Thyrotoxic crisis,Recovering / resolving
+26029134,2025-11-12,UNITED KINGDOM,SERIOUS,Muscular weakness; Myalgia,Recovered / resolved
+26029811,2025-11-12,EU,SERIOUS,C-reactive protein increased; Cardiac failure; Cellulitis; Drug interaction; Erysipelas; Erythema; Oedema; Oedema peripheral; Pain; Pseudocellulitis; Pyrexia; Skin fibrosis; Tissue infiltration,Recovered / resolved
+26030772,2025-11-12,UNITED KINGDOM,SERIOUS,Eczema,Recovered / resolved
+26030778,2025-11-12,UNITED KINGDOM,SERIOUS,Blood pressure increased; Condition aggravated; Contusion; Erythema; Fall; Glaucoma; Hypertension; Malaise; Oedema peripheral; Pain in extremity; Peripheral swelling; Skin discolouration; Skin fragility; Skin laceration; Tachycardia; Therapy interrupted; Weight decreased,Not recovered / ongoing
+26031817,2025-11-12,UNITED KINGDOM,SERIOUS,Hepatitis; Jaundice,Recovering / resolving
+26032679,2025-11-12,UNITED KINGDOM,SERIOUS,Circulatory collapse; Hypotension; Loss of consciousness; Medication error,Recovered / resolved
+26032731,2025-11-12,EU,SERIOUS,Atrial fibrillation; Escherichia urinary tract infection; Febrile neutropenia; Large intestine infection; Pancreatic atrophy; Renal failure; Tachycardia; Urinary tract infection bacterial; Weight decreased,Not recovered / ongoing
+26032735,2025-11-12,EU,SERIOUS,Hyponatraemia,Recovering / resolving
+26034227,2025-11-12,EU,SERIOUS,Chest pain; Off label use; Tachycardia,Recovered / resolved
+26034345,2025-11-12,EU,SERIOUS,Atrioventricular block complete,Recovered / resolved
+26038706,2025-11-13,EU,SERIOUS,Disorientation; Hallucination; Loss of consciousness; Loss of personal independence in daily activities; Toxicity to various agents; Urinary tract infection,Not recovered / ongoing
+26039356,2025-11-13,EU,SERIOUS,Accidental overdose; Cholestasis; Hepatic cytolysis; Wrong schedule,Not recovered / ongoing
+26044504,2025-11-14,UNITED KINGDOM,SERIOUS,Thrombocytopenia,Fatal
+26048949,2025-11-15,UNITED KINGDOM,SERIOUS,Arthralgia; Joint swelling; Myalgia,Recovered / resolved
+26048967,2025-11-15,EU,SERIOUS,Atrial fibrillation; Cardiac failure; Chronic obstructive pulmonary disease; Oedema peripheral; Visual acuity reduced,Unknown
+26058398,2025-11-18,EU,SERIOUS,Arthralgia; Asthenia; Constipation; Cough; Diarrhoea; Dry mouth; Fatigue; Hypoaesthesia; Influenza like illness; Myalgia; Nightmare; Peripheral swelling; Renal impairment; Rhinorrhoea; Sleep disorder; Visual impairment,Not recovered / ongoing
+26059255,2025-11-18,EU,SERIOUS,Pemphigoid,Recovering / resolving
+26061711,2025-11-18,EU,SERIOUS,Pneumocystis jirovecii pneumonia; Secondary immunodeficiency,Fatal
+26061723,2025-11-18,CANADA,SERIOUS,Anxiety; Depression; Polyuria,Recovered / resolved
+26068196,2025-11-20,UNITED KINGDOM,SERIOUS,Aggression; Allergic reaction to excipient; Contraindicated product prescribed; Drug hypersensitivity; Epistaxis; Headache; Product prescribing issue; Seizure,Not recovered / ongoing
+26068890,2025-11-20,EU,SERIOUS,Cerebellar syndrome,Recovered / resolved
+26068904,2025-11-20,CANADA,SERIOUS,Abdominal distension; Arthralgia; Calcium deficiency; Cognitive disorder; Constipation; Decreased appetite; Depressed mood; Dizziness; Dry mouth; Eye pruritus; Fall; Fatigue; Gait disturbance; General physical health deterioration; Head injury; Hypotension; Insomnia; Lacrimation decreased; Loss of personal independence in daily activities; Nausea; Parkinson^s disease; Psychiatric symptom; Vitamin B12 deficiency; Vomiting,Unknown
+26068967,2025-11-20,CANADA,SERIOUS,Blood cholesterol increased; Blood pressure increased; Chordae tendinae rupture; Diarrhoea; Hypotension; Mitral valve incompetence,Recovering / resolving
+26069696,2025-11-20,EU,SERIOUS,Hypokalaemia,Recovering / resolving
+26073225,2025-11-21,UNITED KINGDOM,SERIOUS,Aggression; Delusion; Emotional distress; Paranoia,Recovered / resolved
+26073757,2025-11-21,UNITED KINGDOM,SERIOUS,Anal incontinence; Atrial flutter; Blood triglycerides increased; Depression; Hallucination; Memory impairment,Recovering / resolving
+26073988,2025-11-21,EU,SERIOUS,Cholestasis,Recovering / resolving
+26078483,2025-11-23,CANADA,SERIOUS,Abdominal discomfort; Asthenia; Cholecystitis; Dizziness; Dyspnoea; Laryngitis,Recovered / resolved
+26086713,2025-11-25,EU,SERIOUS,Abdominal pain upper; Alanine aminotransferase increased; Aspartate aminotransferase increased; Blood creatine phosphokinase increased; Drug ineffective; Headache; Hypertriglyceridaemia; Philadelphia chromosome positive,Not recovered / ongoing
+26086717,2025-11-25,CANADA,SERIOUS,Abdominal pain; Abdominal wall haematoma; Haemoglobin decreased; Retroperitoneal haemorrhage,Recovering / resolving
+26086924,2025-11-25,CANADA,SERIOUS,Gastric ulcer; Transfusion; Upper gastrointestinal haemorrhage,Recovered / resolved
+26090652,2025-11-26,EU,SERIOUS,Bradycardia; Product prescribing error; Wrong product administered,Unknown
+26090986,2025-11-26,UNITED STATES,SERIOUS,Ectopic pregnancy,Unknown
+26091135,2025-11-26,EU,SERIOUS,Acute kidney injury; Hypotension,Recovered / resolved
+26091142,2025-11-26,EU,SERIOUS,Fall; Orthostatic hypotension,Recovering / resolving
+26091803,2025-11-26,EU,SERIOUS,Hyperkalaemia; Off label use,Unknown
+26091944,2025-11-26,EU,SERIOUS,Alopecia; Medication error; Mucosal inflammation; Pancytopenia; Skin exfoliation,Recovered / resolved
+26095046,2025-11-27,EU,SERIOUS,Bronchitis; Pleuritic pain; Pneumonia,Recovered / resolved
+26095769,2025-11-27,UNITED KINGDOM,SERIOUS,Burning sensation; Oral mucosal blistering; Swelling,Recovered / resolved
+26096759,2025-11-27,EU,SERIOUS,Embolism,Recovered / resolved
+26097095,2025-11-27,EU,SERIOUS,Cellulitis; Neuropathy peripheral,Not recovered / ongoing
+26099986,2025-11-28,EU,SERIOUS,Therapy non-responder,Unknown
+26100980,2025-11-28,UNITED KINGDOM,SERIOUS,Muscle fatigue,Recovering / resolving
+26103693,2025-11-29,EU,SERIOUS,Fistula; Osteonecrosis of jaw,Not recovered / ongoing
+26105609,2025-12-01,EU,SERIOUS,Eosinophilia,Recovering / resolving
+26105664,2025-12-01,EU,SERIOUS,Anaemia; Drug interaction; International normalised ratio increased,Recovered / resolved
+26106064,2025-12-01,EU,SERIOUS,Drug interaction; International normalised ratio fluctuation,Unknown
+26115443,2025-12-03,UNITED KINGDOM,SERIOUS,Aggression,Not recovered / ongoing
+26115569,2025-12-03,UNITED KINGDOM,SERIOUS,Swelling face; Swollen tongue,Recovered / resolved
+26115696,2025-12-03,EU,SERIOUS,Anaemia; Gastrointestinal haemorrhage,Recovering / resolving
+26115793,2025-12-03,CANADA,SERIOUS,Abdominal pain upper; Confusional state; Delirium; Fall; Hallucination; Somnolence; visual,Not recovered / ongoing
+26116128,2025-12-03,EU,SERIOUS,Aortic thrombosis; Pneumonia; Supraventricular tachycardia,Recovering / resolving
+26116333,2025-12-03,CANADA,SERIOUS,Cerebrovascular accident; Confusional state; Headache; Seizure,Recovered / resolved
+26119618,2025-12-04,EU,SERIOUS,Shock haemorrhagic,Recovered / resolved
+26119634,2025-12-04,EU,SERIOUS,Cardiac failure,Unknown
+26119660,2025-12-04,UNITED KINGDOM,SERIOUS,Atypical femur fracture; Colitis; Diarrhoea,Unknown
+26119674,2025-12-04,EU,SERIOUS,Miosis; Poisoning deliberate; Rhabdomyolysis; Urinary retention,Recovering / resolving
+26120650,2025-12-04,EU,SERIOUS,Arrhythmia,Recovering / resolving
+26120681,2025-12-04,UNITED KINGDOM,SERIOUS,BRASH syndrome,Recovering / resolving
+26124757,2025-12-05,EU,SERIOUS,Intentional overdose; No adverse event; Suicide attempt,Unknown
+26125807,2025-12-05,EU,SERIOUS,Mania,Recovered / resolved
+26128203,2025-12-07,UNITED KINGDOM,SERIOUS,Arthralgia; Medication error,Not recovered / ongoing
+26128233,2025-12-07,CANADA,SERIOUS,Colitis; Febrile neutropenia; Neutrophil count abnormal,Recovered / resolved
+26129227,2025-12-08,UNITED KINGDOM,SERIOUS,Joint swelling,Recovered / resolved
+26129228,2025-12-08,UNITED KINGDOM,SERIOUS,Asthenia; Coordination abnormal; Dizziness; Hypoaesthesia; Medication error; Palpitations,Not recovered / ongoing
+26129452,2025-12-08,UNITED KINGDOM,SERIOUS,Hypocalcaemia; Hypokalaemia; Hypomagnesaemia; Muscle spasms,Recovering / resolving
+26133873,2025-12-09,UNITED KINGDOM,SERIOUS,Priapism,Unknown
+26134287,2025-12-09,EU,SERIOUS,Pruritus; Throat tightness; Urticaria,Recovered / resolved
+26134289,2025-12-09,EU,SERIOUS,Asthma; Depersonalisation/derealisation disorder; Depression; Pneumothorax,Not recovered / ongoing
+26134485,2025-12-09,EU,SERIOUS,Ischaemic stroke,Recovered / resolved
+26134590,2025-12-09,EU,SERIOUS,Hyponatraemia,Recovering / resolving
+26134776,2025-12-09,EU,SERIOUS,Accidental overdose; Drug-induced liver injury,Recovered / resolved
+26135051,2025-12-09,UNITED KINGDOM,SERIOUS,Toxicity to various agents,Recovering / resolving
+26138560,2025-12-10,EU,SERIOUS,Arteriosclerosis; Carotid arteriosclerosis; Coronary artery disease; Lipoprotein (a) increased; Peripheral arterial occlusive disease,Unknown
+26138789,2025-12-10,EU,SERIOUS,Drug abuse; Intentional self-injury,Unknown
+26138825,2025-12-10,UNITED KINGDOM,SERIOUS,Fall,Recovered / resolved
+26139427,2025-12-10,UNITED STATES,SERIOUS,Bradycardia; Condition aggravated,Unknown
+26143609,2025-12-11,EU,SERIOUS,Acute kidney injury; Bradycardia,Recovering / resolving
+26144428,2025-12-11,EU,SERIOUS,Dyspnoea; Erythema; Pruritus,Recovered / resolved
+26144528,2025-12-11,EU,SERIOUS,Delirium; Hallucination; Psychomotor hyperactivity; visual,Recovered / resolved
+26148598,2025-12-12,EU,SERIOUS,Liver disorder,Recovered / resolved
+26148703,2025-12-12,EU,SERIOUS,Diabetic ketoacidosis; Pancreatic failure; Type 1 diabetes mellitus,Unknown
+26148939,2025-12-12,EU,SERIOUS,Diarrhoea; Idiopathic pulmonary fibrosis; Liver function test abnormal; Photosensitivity reaction; Weight decreased,Unknown
+26149269,2025-12-12,EU,SERIOUS,Bradycardia; Poisoning deliberate; Sopor; Toxicity to various agents; Vomiting,Recovering / resolving
+26152300,2025-12-14,UNITED KINGDOM,SERIOUS,Hypokalaemia,Not recovered / ongoing
+26152417,2025-12-14,UNITED KINGDOM,SERIOUS,Arthralgia; Joint swelling; Myalgia,Recovered / resolved
+26153118,2025-12-14,UNITED KINGDOM,SERIOUS,Death,Fatal
+26153496,2025-12-14,CANADA,SERIOUS,Freezing phenomenon; Movement disorder; Muscle rigidity,Recovered / resolved
+26154927,2025-12-15,EU,SERIOUS,Epilepsy,Recovered / resolved
+26159073,2025-12-16,UNITED KINGDOM,SERIOUS,Abnormal weight gain,Not recovered / ongoing
+26160330,2025-12-16,EU,SERIOUS,Anaemia; Mucosal inflammation; Thrombocytopenia,Not recovered / ongoing
+26160801,2025-12-16,EU,SERIOUS,Cholestasis,Recovered / resolved
+26160824,2025-12-16,UNITED KINGDOM,SERIOUS,Pruritus; Skin exfoliation,Recovering / resolving
+26166592,2025-12-17,EU,SERIOUS,Chest injury; Fall; Musculoskeletal chest pain; Orthostatic hypotension,Recovering / resolving
+26168076,2025-12-17,EU,SERIOUS,Pneumonia,Fatal
+26168521,2025-12-17,EU,SERIOUS,Retroperitoneal haematoma; Shock haemorrhagic,Recovering / resolving
+26168629,2025-12-17,EU,SERIOUS,Interstitial lung disease,Recovered / resolved
+26168760,2025-12-17,EU,SERIOUS,Jaundice cholestatic,Recovering / resolving
+26172584,2025-12-18,CHINA,SERIOUS,Drug interaction; Drug level decreased; False positive investigation result; Hypertension; Therapeutic product effect decreased,Recovered / resolved
+26172911,2025-12-18,UNITED KINGDOM,SERIOUS,Nightmare,Not recovered / ongoing
+26172919,2025-12-18,UNITED KINGDOM,SERIOUS,Atrial fibrillation; Drug ineffective,Unknown
+26173526,2025-12-18,UNITED KINGDOM,SERIOUS,Erectile dysfunction,Recovered / resolved
+26174489,2025-12-18,EU,SERIOUS,Drug interaction; Pericardial haemorrhage,Recovered / resolved
+26178177,2025-12-19,EU,SERIOUS,Confusional state; Hallucination; Somnolence,Not recovered / ongoing
+26178704,2025-12-19,EU,SERIOUS,Idiopathic interstitial pneumonia,Recovering / resolving
+26179438,2025-12-19,EU,SERIOUS,Erythema; Palmar erythema,Unknown
+26179555,2025-12-19,EU,SERIOUS,Acute kidney injury; Dysstasia; General physical health deterioration; Urinary tract infection,Not recovered / ongoing
+26179782,2025-12-19,EU,SERIOUS,Neuralgia,Recovered with sequelae
+26180072,2025-12-19,EU,SERIOUS,Atrial fibrillation; Brain natriuretic peptide increased; Bronchospasm; Cardiac disorder; Chest discomfort; Coronary artery disease; Cough; Dysphonia; Dyspnoea; Dyspnoea exertional; Eosinophilia; Exostosis; Fractional exhaled nitric oxide increased; Increased upper airway secretion; Muscle spasms; Myoglobin blood increased; Nasopharyngitis; Obstructive airways disorder; Obstructive sleep apnoea syndrome; Plantar fasciitis; Pneumothorax; Secretion discharge; Sensation of foreign body; Wheezing,Not recovered / ongoing
+26183187,2025-12-21,EU,SERIOUS,Hypotension; Medication error,Recovered / resolved
+26183191,2025-12-21,EU,SERIOUS,Muscle spasms,Recovering / resolving
+26183404,2025-12-21,EU,SERIOUS,Acute kidney injury,Recovered with sequelae
+26193595,2025-12-24,CANADA,SERIOUS,Acute kidney injury; Clostridium test positive; Colitis; Generalised oedema; Sepsis,Recovered / resolved
+26196758,2025-12-24,EU,SERIOUS,Arrhythmic storm; Rebound effect,Fatal
+26196949,2025-12-24,EU,SERIOUS,Anaemia; Haemorrhage,Recovered / resolved
+26198785,2025-12-25,EU,SERIOUS,Cardiac arrest,Fatal
+26198835,2025-12-25,EU,SERIOUS,Blood pressure increased; Dizziness; Drug interaction; Headache; Hyperhidrosis; Malaise; Nasopharyngitis; Toxicity to various agents; Vomiting,Unknown
+26198856,2025-12-25,EU,SERIOUS,Hyponatraemia; Inappropriate antidiuretic hormone secretion,Recovered / resolved
+26198861,2025-12-25,EU,SERIOUS,Renal failure,Not recovered / ongoing
+26199166,2025-12-25,EU,SERIOUS,Hypokalaemia,Recovered / resolved
+26199224,2025-12-25,UNITED KINGDOM,SERIOUS,Crohn^s disease; Dizziness; Gastritis; Syncope,Unknown
+26201254,2025-12-26,CANADA,SERIOUS,Atypical femur fracture,Recovered / resolved
+26201786,2025-12-26,EU,SERIOUS,Hypoaesthesia oral; Periorbital swelling; Pruritus; Swelling face,Recovered / resolved
+26202851,2025-12-26,EU,SERIOUS,Pancytopenia,Recovered / resolved
+26202882,2025-12-26,UNITED KINGDOM,SERIOUS,Medication error; Rectal haemorrhage,Recovering / resolving
+26203219,2025-12-26,EU,SERIOUS,Acute kidney injury; Colitis; Duodenal ulcer; Septic shock; Shock haemorrhagic,Not recovered / ongoing
+26203300,2025-12-26,CANADA,SERIOUS,Blood test abnormal; Confusional state; Dizziness,Unknown
